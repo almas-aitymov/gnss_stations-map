@@ -7,10 +7,7 @@
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
   <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
  
-  <link rel="stylesheet" href="https://unpkg.com/leaflet-measure/dist/leaflet-measure.css" />
-  <script src="https://unpkg.com/leaflet-measure/dist/leaflet-measure.min.js"></script>
- 
-  
+   
   <style>
     #map { height: 100vh; }
     body { margin: 0; }
@@ -56,17 +53,6 @@
         maxZoom: 19,
         attribution: '&copy; OpenStreetMap contributors'
       }).addTo(map);
-
-      
-      L.control.measure({
-  primaryLengthUnit: 'kilometers',
-  secondaryLengthUnit: 'meters',
-  primaryAreaUnit: 'hectares',
-  secondaryAreaUnit: 'sqmeters',
-  activeColor: '#e74c3c',
-  completedColor: '#27ae60'
-}).addTo(map);
-
       
       data.forEach(station => {
         if (station.latitude && station.longitude) {
