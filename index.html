@@ -79,7 +79,16 @@
   `).join('');
 
   const icon = getIcon(group[0].provider);
+// 🔵 Добавляем окружность радиусом 30 км (в метрах)
+L.circle([lat, lon], {
+  radius: 30000, // 30 км
+  color: color,
+  fillColor: color,
+  fillOpacity: 0.15,
+  weight: 1
+}).addTo(map);
 
+// 📍 Маркер
   L.marker([lat, lon], { icon })
     .addTo(map)
     .bindPopup(popup);
