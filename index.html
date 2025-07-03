@@ -13,6 +13,13 @@
 <body>
   <div id="map"></div>
 
+<!-- Leaflet.MeasureControl CSS -->
+<link rel="stylesheet" href="https://unpkg.com/leaflet-measure/dist/leaflet-measure.css" />
+<!-- Leaflet.MeasureControl JS -->
+<script src="https://unpkg.com/leaflet-measure/dist/leaflet-measure.min.js"></script>
+
+
+  
   <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
 <script>
   const providerColors = {
@@ -41,7 +48,17 @@
     .then(response => response.json())
     .then(data => {
       const map = L.map('map').setView([48.5, 71.5], 5);
+     
+L.control.measure({
+  primaryLengthUnit: 'kilometers',
+  secondaryLengthUnit: 'meters',
+  primaryAreaUnit: 'hectares',
+  secondaryAreaUnit: 'sqmeters',
+  activeColor: '#e74c3c',
+  completedColor: '#27ae60'
+}).addTo(map);
 
+      
       L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
         maxZoom: 19,
         attribution: '&copy; OpenStreetMap contributors'
