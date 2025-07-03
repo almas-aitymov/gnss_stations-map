@@ -26,19 +26,14 @@
       "Default": "violet"
     };
 
-    const iconBase = "https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/";
-
-    function getIcon(provider) {
-      const color = providerColors[provider] || providerColors["Default"];
-      return new L.Icon({
-        iconUrl: iconBase + `marker-icon-${color}.png`,
-        shadowUrl: iconBase + "marker-shadow.png",
-        iconSize: [25, 41],
-        iconAnchor: [12, 41],
-        popupAnchor: [1, -34],
-        shadowSize: [41, 41]
-      });
-    }
+    // 📡 Универсальная иконка базовой станции
+    const gnssIcon = new L.Icon({
+      iconUrl: "https://cdn-icons-png.flaticon.com/512/854/854866.png",
+      iconSize: [32, 32],
+      iconAnchor: [16, 32],
+      popupAnchor: [0, -32],
+      shadowUrl: null
+    });
 
     fetch('stations_combined.json')
       .then(response => response.json())
@@ -59,46 +54,39 @@
         });
 
         Object.values(grouped).forEach(group => {
-  const lat = group[0].latitude;
-  const lon = group[0].longitude;
-  
+          const lat = group[0].latitude;
+          const lon = group[0].longitude;
+
           if (lat == null || lon == null) {
-  console.warn("Пропущена станция без координат:", group);
-  return;
-}
-  
-  const color = providerColors[group[0].provider] || providerColors["Default"];
-          
-  if (lat == null || lon == null) return; // пропускаем ошибочные
+            console.warn("Пропущена станция без координат:", group);
+            return;
+          }
 
-  const popup = group.map(station => `
-    <b>${station.mountpoint}</b><br/>
-    Провайдер: ${station.provider}<br/>
-    GNSS: ${station.gnss}<br/>
-    Формат: ${station.format}<br/>
-    Обновлено: ${station.last_checked?.slice(0, 10) || ''}<br/>
-    <hr>
-  `).join('');
+          const color = providerColors[group[0].provider] || providerColors["Default"];
 
-  const icon = getIcon(group[0].provider);
-// 🔵 Добавляем окружность радиусом 30 км (в метрах)
-L.circle([lat, lon], {
-  radius: 30000, // 30 км
-  color: color,
-  fillColor: color,
-  fillOpacity: 0.15,
-  weight: 1
-}).addTo(map);
+          const popup = group.map(station => `
+            <b>${station.mountpoint}</b><br/>
+            Провайдер: ${station.provider}<br/>
+            GNSS: ${station.gnss}<br/>
+            Формат: ${station.format}<br/>
+            Обновлено: ${station.last_checked?.slice(0, 10) || ''}<br/>
+            <hr>
+          `).join('');
 
-// 📍 Маркер
-  L.marker([lat, lon], { icon })
-    .addTo(map)
-    .bindPopup(popup);
-});
+          // 🔵 Круг покрытия 30 км
+          L.circle([lat, lon], {
+            radius: 30000,
+            color: color,
+            fillColor: color,
+            fillOpacity: 0.15,
+            weight: 1
+          }).addTo(map);
 
-
-
-        
+          // 📍 Маркер с иконкой антенны
+          L.marker([lat, lon], { icon: gnssIcon })
+            .addTo(map)
+            .bindPopup(popup);
+        });
       });
   </script>
 </body>
