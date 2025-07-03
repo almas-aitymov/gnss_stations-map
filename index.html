@@ -4,7 +4,7 @@
   <title>Карта базовых станций</title>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  
+
   <!-- Leaflet -->
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
   <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
@@ -12,90 +12,132 @@
   <style>
     #map { height: 100vh; }
     body { margin: 0; }
+
+    #legend {
+      position: absolute;
+      bottom: 10px;
+      left: 10px;
+      background: white;
+      padding: 10px;
+      z-index: 1000;
+      font-size: 14px;
+      border-radius: 6px;
+      box-shadow: 0 0 5px rgba(0,0,0,0.3);
+    }
+    #legend label {
+      display: block;
+      margin: 2px 0;
+    }
   </style>
 </head>
 <body>
   <div id="map"></div>
 
+  <!-- Панель фильтра -->
+  <div id="legend" class="leaflet-control">
+    <strong>Фильтр провайдеров:</strong><br/>
+    <label><input type="checkbox" value="Geokurs" checked> Geokurs</label>
+    <label><input type="checkbox" value="NCGPI" checked> NCGPI</label>
+    <label><input type="checkbox" value="Leica" checked> Leica</label>
+    <label><input type="checkbox" value="South" checked> South</label>
+  </div>
+
   <script>
-  const providerColors = {
-    "Geokurs": "green",
-    "NCGPI": "blue",
-    "Leica": "red",
-    "South": "orange",
-    "ZHASGEO": "violet",
-    "Default": "yellow"
-  };
+    const providerColors = {
+      "Geokurs": "green",
+      "NCGPI": "blue",
+      "Leica": "red",
+      "South": "orange",
+      "Default": "violet"
+    };
 
-  const iconBase = "https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/";
+    const iconBase = "https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/";
 
-  function getIcon(provider) {
-    const color = providerColors[provider] || providerColors["Default"];
-    return new L.Icon({
-      iconUrl: `${iconBase}marker-icon-${color}.png`,
-      shadowUrl: `${iconBase}marker-shadow.png`,
-      iconSize: [25, 41],
-      iconAnchor: [12, 41],
-      popupAnchor: [1, -34],
-      shadowSize: [41, 41]
-    });
-  }
-
-  fetch('stations_combined.json')
-    .then(response => response.json())
-    .then(data => {
-      const map = L.map('map').setView([48.5, 71.5], 5);
-
-      L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-        maxZoom: 19,
-        attribution: '&copy; OpenStreetMap contributors'
-      }).addTo(map);
-
-      // Группировка по координатам
-      const grouped = {};
-      data.forEach(station => {
-        const key = `${station.latitude},${station.longitude}`;
-        if (!grouped[key]) grouped[key] = [];
-        grouped[key].push(station);
+    function getIcon(provider) {
+      const color = providerColors[provider] || providerColors["Default"];
+      return new L.Icon({
+        iconUrl: `${iconBase}marker-icon-${color}.png`,
+        shadowUrl: `${iconBase}marker-shadow.png`,
+        iconSize: [25, 41],
+        iconAnchor: [12, 41],
+        popupAnchor: [1, -34],
+        shadowSize: [41, 41]
       });
+    }
 
-      Object.values(grouped).forEach(group => {
-        const lat = group[0].latitude;
-        const lon = group[0].longitude;
+    fetch('stations_combined.json')
+      .then(response => response.json())
+      .then(data => {
+        const map = L.map('map').setView([48.5, 71.5], 5);
 
-        if (lat == null || lon == null) {
-          console.warn("Пропущена станция без координат:", group);
-          return;
-        }
-
-        const color = providerColors[group[0].provider] || providerColors["Default"];
-        const icon = getIcon(group[0].provider);
-
-        const popup = group.map(station => `
-          <b>${station.mountpoint}</b><br/>
-          Провайдер: ${station.provider}<br/>
-          GNSS: ${station.gnss}<br/>
-          Формат: ${station.format}<br/>
-          Обновлено: ${station.last_checked?.slice(0, 10) || ''}<br/>
-          <hr>
-        `).join('');
-
-        // Круг радиусом 50 км
-        L.circle([lat, lon], {
-          radius: 50000,
-          color: color,
-          fillColor: color,
-          fillOpacity: 0.15,
-          weight: 1
+        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+          maxZoom: 19,
+          attribution: '&copy; OpenStreetMap contributors'
         }).addTo(map);
 
-        // Маркер по цвету провайдера
-        L.marker([lat, lon], { icon })
-          .addTo(map)
-          .bindPopup(popup);
-      });
-    });
-</script>
+        const grouped = {};
+        const markersByProvider = {};
 
+        data.forEach(station => {
+          const key = `${station.latitude},${station.longitude}`;
+          if (!grouped[key]) grouped[key] = [];
+          grouped[key].push(station);
+        });
+
+        Object.values(grouped).forEach(group => {
+          const lat = group[0].latitude;
+          const lon = group[0].longitude;
+          const provider = group[0].provider || "Default";
+
+          if (lat == null || lon == null) {
+            console.warn("Пропущена станция без координат:", group);
+            return;
+          }
+
+          const color = providerColors[provider] || providerColors["Default"];
+          const icon = getIcon(provider);
+
+          const popup = group.map(station => `
+            <b>${station.mountpoint}</b><br/>
+            Провайдер: ${station.provider}<br/>
+            GNSS: ${station.gnss}<br/>
+            Формат: ${station.format}<br/>
+            Обновлено: ${station.last_checked?.slice(0, 10) || ''}<br/>
+            <hr>
+          `).join('');
+
+          // Окружность 30 км
+          L.circle([lat, lon], {
+            radius: 30000,
+            color: color,
+            fillColor: color,
+            fillOpacity: 0.15,
+            weight: 1
+          }).addTo(map);
+
+          // Маркер
+          const marker = L.marker([lat, lon], { icon }).bindPopup(popup);
+          marker.addTo(map);
+
+          if (!markersByProvider[provider]) markersByProvider[provider] = [];
+          markersByProvider[provider].push(marker);
+        });
+
+        // Фильтрация по чекбоксам
+        document.querySelectorAll('#legend input[type="checkbox"]').forEach(cb => {
+          cb.addEventListener('change', () => {
+            const provider = cb.value;
+            const show = cb.checked;
+            markersByProvider[provider]?.forEach(marker => {
+              if (show) {
+                marker.addTo(map);
+              } else {
+                map.removeLayer(marker);
+              }
+            });
+          });
+        });
+      });
+  </script>
 </body>
 </html>
