@@ -48,31 +48,53 @@
     .then(response => response.json())
     .then(data => {
       const map = L.map('map').setView([48.5, 71.5], 5);
-         
+
       L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
         maxZoom: 19,
         attribution: '&copy; OpenStreetMap contributors'
       }).addTo(map);
-      
+
+      // Линейка
+      L.control.measure({
+        primaryLengthUnit: 'kilometers',
+        secondaryLengthUnit: 'meters',
+        primaryAreaUnit: 'hectares',
+        secondaryAreaUnit: 'sqmeters',
+        activeColor: '#e74c3c',
+        completedColor: '#27ae60'
+      }).addTo(map);
+
+      // Группировка по координатам
+      const grouped = {};
       data.forEach(station => {
-        if (station.latitude && station.longitude) {
-          const popup = `
-            <b>${station.mountpoint}</b><br/>
-            Провайдер: ${station.provider}<br/>
-            GNSS: ${station.gnss}<br/>
-            Формат: ${station.format}<br/>
-            Координаты: ${station.latitude}, ${station.longitude}<br/>
-            Обновлено: ${station.last_checked.slice(0, 10)}
-          `;
-          L.marker([station.latitude, station.longitude], {
-            icon: getIcon(station.provider)
-          })
+        const key = `${station.latitude},${station.longitude}`;
+        if (!grouped[key]) grouped[key] = [];
+        grouped[key].push(station);
+      });
+
+      Object.values(grouped).forEach(group => {
+        const lat = group[0].latitude;
+        const lon = group[0].longitude;
+
+        const popup = group.map(station => `
+          <b>${station.mountpoint}</b><br/>
+          Провайдер: ${station.provider}<br/>
+          GNSS: ${station.gnss}<br/>
+          Формат: ${station.format}<br/>
+          Обновлено: ${station.last_checked?.slice(0, 10) || ''}<br/>
+          <hr>
+        `).join('');
+
+        // Берём иконку по первому провайдеру
+        const icon = getIcon(group[0].provider);
+
+        L.marker([lat, lon], { icon })
           .addTo(map)
           .bindPopup(popup);
-        }
       });
     });
 </script>
+
 
 </body>
 </html>
