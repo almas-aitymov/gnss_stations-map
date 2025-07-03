@@ -59,24 +59,35 @@
         });
 
         Object.values(grouped).forEach(group => {
-          const lat = group[0].latitude;
-          const lon = group[0].longitude;
+  const lat = group[0].latitude;
+  const lon = group[0].longitude;
+  
+          if (lat == null || lon == null) {
+  console.warn("Пропущена станция без координат:", group);
+  return;
+}
+                                       
+  if (lat == null || lon == null) return; // пропускаем ошибочные
 
-          const popup = group.map(station => `
-            <b>${station.mountpoint}</b><br/>
-            Провайдер: ${station.provider}<br/>
-            GNSS: ${station.gnss}<br/>
-            Формат: ${station.format}<br/>
-            Обновлено: ${station.last_checked?.slice(0, 10) || ''}<br/>
-            <hr>
-          `).join('');
+  const popup = group.map(station => `
+    <b>${station.mountpoint}</b><br/>
+    Провайдер: ${station.provider}<br/>
+    GNSS: ${station.gnss}<br/>
+    Формат: ${station.format}<br/>
+    Обновлено: ${station.last_checked?.slice(0, 10) || ''}<br/>
+    <hr>
+  `).join('');
 
-          const icon = getIcon(group[0].provider);
+  const icon = getIcon(group[0].provider);
 
-          L.marker([lat, lon], { icon })
-            .addTo(map)
-            .bindPopup(popup);
-        });
+  L.marker([lat, lon], { icon })
+    .addTo(map)
+    .bindPopup(popup);
+});
+
+
+
+        
       });
   </script>
 </body>
