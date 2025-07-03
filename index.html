@@ -24,22 +24,33 @@
       border-radius: 6px;
       box-shadow: 0 0 5px rgba(0,0,0,0.3);
     }
+
     #legend label {
       display: block;
-      margin: 2px 0;
+      margin: 4px 0;
+      cursor: pointer;
+    }
+
+    #legend .dot {
+      display: inline-block;
+      width: 10px;
+      height: 10px;
+      border-radius: 50%;
+      margin-right: 5px;
+      vertical-align: middle;
     }
   </style>
 </head>
 <body>
   <div id="map"></div>
 
-  <!-- Панель фильтра -->
+  <!-- Легенда -->
   <div id="legend" class="leaflet-control">
     <strong>Фильтр провайдеров:</strong><br/>
-    <label><input type="checkbox" value="Geokurs" checked> Geokurs</label>
-    <label><input type="checkbox" value="NCGPI" checked> NCGPI</label>
-    <label><input type="checkbox" value="Leica" checked> Leica</label>
-    <label><input type="checkbox" value="South" checked> South</label>
+    <label><input type="checkbox" value="Geokurs" checked> <span class="dot" style="background:green;"></span> Geokurs</label>
+    <label><input type="checkbox" value="NCGPI" checked> <span class="dot" style="background:blue;"></span> NCGPI</label>
+    <label><input type="checkbox" value="Leica" checked> <span class="dot" style="background:red;"></span> Leica</label>
+    <label><input type="checkbox" value="South" checked> <span class="dot" style="background:orange;"></span> South</label>
   </div>
 
   <script>
@@ -48,7 +59,8 @@
       "NCGPI": "blue",
       "Leica": "red",
       "South": "orange",
-      "Default": "violet"
+      "ZHASGEO": "violet",
+      "Default": "yellow"
     };
 
     const iconBase = "https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/";
@@ -76,7 +88,7 @@
         }).addTo(map);
 
         const grouped = {};
-        const markersByProvider = {};
+        const layersByProvider = {};
 
         data.forEach(station => {
           const key = `${station.latitude},${station.longitude}`;
@@ -106,9 +118,9 @@
             <hr>
           `).join('');
 
-          // Окружность 30 км
-          L.circle([lat, lon], {
-            radius: 30000,
+          // Окружность
+          const circle = L.circle([lat, lon], {
+            radius: 50000,
             color: color,
             fillColor: color,
             fillOpacity: 0.15,
@@ -116,23 +128,22 @@
           }).addTo(map);
 
           // Маркер
-          const marker = L.marker([lat, lon], { icon }).bindPopup(popup);
-          marker.addTo(map);
+          const marker = L.marker([lat, lon], { icon }).bindPopup(popup).addTo(map);
 
-          if (!markersByProvider[provider]) markersByProvider[provider] = [];
-          markersByProvider[provider].push(marker);
+          if (!layersByProvider[provider]) layersByProvider[provider] = [];
+          layersByProvider[provider].push(marker, circle);
         });
 
-        // Фильтрация по чекбоксам
+        // Обработка фильтра
         document.querySelectorAll('#legend input[type="checkbox"]').forEach(cb => {
           cb.addEventListener('change', () => {
             const provider = cb.value;
             const show = cb.checked;
-            markersByProvider[provider]?.forEach(marker => {
+            layersByProvider[provider]?.forEach(layer => {
               if (show) {
-                marker.addTo(map);
+                layer.addTo(map);
               } else {
-                map.removeLayer(marker);
+                map.removeLayer(layer);
               }
             });
           });
