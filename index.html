@@ -66,7 +66,9 @@
   console.warn("Пропущена станция без координат:", group);
   return;
 }
-                                       
+  
+  const color = providerColors[group[0].provider] || providerColors["Default"];
+          
   if (lat == null || lon == null) return; // пропускаем ошибочные
 
   const popup = group.map(station => `
