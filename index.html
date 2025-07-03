@@ -4,13 +4,11 @@
   <title>Карта базовых станций</title>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  <!-- Leaflet -->
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
   <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
 
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.measurecontrol/1.1.0/leaflet.measurecontrol.min.css" />
-<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet.measurecontrol/1.1.0/leaflet.measurecontrol.min.js"></script>
-
-   
   <style>
     #map { height: 100vh; }
     body { margin: 0; }
@@ -19,87 +17,67 @@
 <body>
   <div id="map"></div>
 
+  <script>
+    const providerColors = {
+      "Geokurs": "green",
+      "NCGPI": "blue",
+      "Leica": "red",
+      "South": "orange",
+      "Default": "violet"
+    };
 
+    const iconBase = "https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/";
 
-
-  
-  
-<script>
-  const providerColors = {
-    "Geokurs": "green",
-    "NCGPI": "blue",
-    "Leica": "red",
-    "South": "orange",
-    "Default": "violet"
-  };
-
-  const iconBase = "https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/";
-
-  function getIcon(provider) {
-    const color = providerColors[provider] || providerColors["Default"];
-    return new L.Icon({
-      iconUrl: iconBase + `marker-icon-${color}.png`,
-      shadowUrl: iconBase + "marker-shadow.png",
-      iconSize: [25, 41],
-      iconAnchor: [12, 41],
-      popupAnchor: [1, -34],
-      shadowSize: [41, 41]
-    });
-  }
-
-  fetch('stations_combined.json')
-    .then(response => response.json())
-    .then(data => {
-      const map = L.map('map').setView([48.5, 71.5], 5);
-
-      L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-        maxZoom: 19,
-        attribution: '&copy; OpenStreetMap contributors'
-      }).addTo(map);
-
-      console.log("Measure доступен?", typeof L.control.measure);
-
-      // Линейка
-      L.control.measure({
-        primaryLengthUnit: 'kilometers',
-        secondaryLengthUnit: 'meters',
-        primaryAreaUnit: 'hectares',
-        secondaryAreaUnit: 'sqmeters',
-        activeColor: '#e74c3c',
-        completedColor: '#27ae60'
-      }).addTo(map);
-
-      // Группировка по координатам
-      const grouped = {};
-      data.forEach(station => {
-        const key = `${station.latitude},${station.longitude}`;
-        if (!grouped[key]) grouped[key] = [];
-        grouped[key].push(station);
+    function getIcon(provider) {
+      const color = providerColors[provider] || providerColors["Default"];
+      return new L.Icon({
+        iconUrl: iconBase + `marker-icon-${color}.png`,
+        shadowUrl: iconBase + "marker-shadow.png",
+        iconSize: [25, 41],
+        iconAnchor: [12, 41],
+        popupAnchor: [1, -34],
+        shadowSize: [41, 41]
       });
+    }
 
-      Object.values(grouped).forEach(group => {
-        const lat = group[0].latitude;
-        const lon = group[0].longitude;
+    fetch('stations_combined.json')
+      .then(response => response.json())
+      .then(data => {
+        const map = L.map('map').setView([48.5, 71.5], 5);
 
-        const popup = group.map(station => `
-          <b>${station.mountpoint}</b><br/>
-          Провайдер: ${station.provider}<br/>
-          GNSS: ${station.gnss}<br/>
-          Формат: ${station.format}<br/>
-          Обновлено: ${station.last_checked?.slice(0, 10) || ''}<br/>
-          <hr>
-        `).join('');
+        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+          maxZoom: 19,
+          attribution: '&copy; OpenStreetMap contributors'
+        }).addTo(map);
 
-        // Берём иконку по первому провайдеру
-        const icon = getIcon(group[0].provider);
+        // Группировка по координатам
+        const grouped = {};
+        data.forEach(station => {
+          const key = `${station.latitude},${station.longitude}`;
+          if (!grouped[key]) grouped[key] = [];
+          grouped[key].push(station);
+        });
 
-        L.marker([lat, lon], { icon })
-          .addTo(map)
-          .bindPopup(popup);
+        Object.values(grouped).forEach(group => {
+          const lat = group[0].latitude;
+          const lon = group[0].longitude;
+
+          const popup = group.map(station => `
+            <b>${station.mountpoint}</b><br/>
+            Провайдер: ${station.provider}<br/>
+            GNSS: ${station.gnss}<br/>
+            Формат: ${station.format}<br/>
+            Обновлено: ${station.last_checked?.slice(0, 10) || ''}<br/>
+            <hr>
+          `).join('');
+
+          const icon = getIcon(group[0].provider);
+
+          L.marker([lat, lon], { icon })
+            .addTo(map)
+            .bindPopup(popup);
+        });
       });
-    });
-</script>
-
-
+  </script>
 </body>
 </html>
