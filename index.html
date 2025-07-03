@@ -57,6 +57,8 @@
         attribution: '&copy; OpenStreetMap contributors'
       }).addTo(map);
 
+      console.log("Measure доступен?", typeof L.control.measure);
+
       // Линейка
       L.control.measure({
         primaryLengthUnit: 'kilometers',
