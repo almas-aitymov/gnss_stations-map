@@ -8,18 +8,18 @@
     "city": "Almaty",
     "provider": "Leica",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.324302"
+    "last_checked": "2025-07-05T09:53:34.934790"
   },
   {
     "mountpoint": "Pavlodar",
     "format": "Leica",
     "gnss": "GPS+GLO",
-    "latitude": "52.28",
-    "longitude": "76.94",
+    "latitude": "52.284508",
+    "longitude": "76.944585",
     "city": "Pavlodar",
     "provider": "Leica",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.324314"
+    "last_checked": "2025-07-05T09:53:34.934803"
   },
   {
     "mountpoint": "Almaty_2",
@@ -30,40 +30,40 @@
     "city": "Almaty_2",
     "provider": "Leica",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.324319"
+    "last_checked": "2025-07-05T09:53:34.934808"
   },
   {
     "mountpoint": "Ust-Kamenogorsk",
     "format": "Leica",
     "gnss": "GPS & GLO",
-    "latitude": "49.97",
-    "longitude": "82.60",
+    "latitude": "49.97104",
+    "longitude": "82.600849",
     "city": "Ust-Kamenogorsk",
     "provider": "Leica",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.324325"
+    "last_checked": "2025-07-05T09:53:34.934814"
   },
   {
     "mountpoint": "Shymkent",
     "format": "Leica",
     "gnss": "GPS & GLO",
-    "latitude": "51.14",
-    "longitude": "71.45",
+    "latitude": "42.330954",
+    "longitude": "69.618901",
     "city": "Shymkent",
     "provider": "Leica",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.324329"
+    "last_checked": "2025-07-05T09:53:34.934818"
   },
   {
     "mountpoint": "Uralsk",
     "format": "Leica",
     "gnss": "GPS & GLO",
-    "latitude": "51.14",
-    "longitude": "71.45",
+    "latitude": "51.224354",
+    "longitude": "51.381905",
     "city": "Uralsk",
     "provider": "Leica",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.324334"
+    "last_checked": "2025-07-05T09:53:34.934823"
   },
   {
     "mountpoint": "Kaskelen",
@@ -74,7 +74,7 @@
     "city": "Kaskelen",
     "provider": "Leica",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.324338"
+    "last_checked": "2025-07-05T09:53:34.934827"
   },
   {
     "mountpoint": "Tengiz_TCO",
@@ -85,29 +85,29 @@
     "city": "Tengiz_TCO",
     "provider": "Leica",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.324346"
+    "last_checked": "2025-07-05T09:53:34.934835"
   },
   {
     "mountpoint": "Aktau",
     "format": "Leica",
     "gnss": "GPS & GLO",
-    "latitude": "43.65",
-    "longitude": "51.17",
+    "latitude": "43.650902",
+    "longitude": "51.17137",
     "city": "Aktau",
     "provider": "Leica",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.324351"
+    "last_checked": "2025-07-05T09:53:34.934840"
   },
   {
     "mountpoint": "Ekibastuz_Vost",
     "format": "Leica",
     "gnss": "GPS & GLO",
-    "latitude": "51.68",
-    "longitude": "75.47",
+    "latitude": "52.28",
+    "longitude": "76.94",
     "city": "Ekibastuz_Vost",
     "provider": "Leica",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.324356"
+    "last_checked": "2025-07-05T09:53:34.934845"
   },
   {
     "mountpoint": "Korday",
@@ -118,7 +118,7 @@
     "city": "Korday",
     "provider": "Leica",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.324361"
+    "last_checked": "2025-07-05T09:53:34.934850"
   },
   {
     "mountpoint": "Zerenda",
@@ -129,7 +129,7 @@
     "city": "Zerenda",
     "provider": "Leica",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.324368"
+    "last_checked": "2025-07-05T09:53:34.934854"
   },
   {
     "mountpoint": "Astana_Nazarbayev_University",
@@ -140,40 +140,40 @@
     "city": "Astana_Nazarbayev_University",
     "provider": "Leica",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.324373"
+    "last_checked": "2025-07-05T09:53:34.934858"
   },
   {
     "mountpoint": "Ridder",
     "format": "Leica",
     "gnss": "GPS & GLO",
-    "latitude": "52.28",
-    "longitude": "76.94",
+    "latitude": "50.340597",
+    "longitude": "83.503384",
     "city": "Ridder",
     "provider": "Leica",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.324376"
+    "last_checked": "2025-07-05T09:53:34.934862"
   },
   {
     "mountpoint": "Astana",
     "format": "Leica",
     "gnss": "GPS & GLO",
-    "latitude": "51.14",
-    "longitude": "71.45",
+    "latitude": "51.144813",
+    "longitude": "71.445556",
     "city": "Astana",
     "provider": "Leica",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.324380"
+    "last_checked": "2025-07-05T09:53:34.934866"
   },
   {
     "mountpoint": "Atyrau",
     "format": "Leica",
     "gnss": "GPS+GLO",
-    "latitude": "52.28",
-    "longitude": "76.94",
+    "latitude": "47.093321",
+    "longitude": "51.88518",
     "city": "Atyrau",
     "provider": "Leica",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.324384"
+    "last_checked": "2025-07-05T09:53:34.934870"
   },
   {
     "mountpoint": "Kyzylorda",
@@ -184,51 +184,51 @@
     "city": "Kyzylorda",
     "provider": "Leica",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.324388"
+    "last_checked": "2025-07-05T09:53:34.934873"
   },
   {
     "mountpoint": "Aktobe",
     "format": "Leica",
     "gnss": "GPS & GLO",
-    "latitude": "50.29",
-    "longitude": "57.14",
+    "latitude": "50.29054",
+    "longitude": "57.143038",
     "city": "Aktobe",
     "provider": "Leica",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.324393"
+    "last_checked": "2025-07-05T09:53:34.934880"
   },
   {
     "mountpoint": "WKR-Zhympity",
     "format": "Leica",
     "gnss": "GPS+GLO",
-    "latitude": "52.28",
-    "longitude": "76.94",
+    "latitude": "50.255935",
+    "longitude": "52.589314",
     "city": "WKR-Zhympity",
     "provider": "Leica",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.324397"
+    "last_checked": "2025-07-05T09:53:34.934886"
   },
   {
     "mountpoint": "WKR_Chapayev",
     "format": "Leica",
     "gnss": "GPS+GLO",
-    "latitude": "52.28",
-    "longitude": "76.94",
+    "latitude": "50.179597",
+    "longitude": "51.176361",
     "city": "WKR_Chapayev",
     "provider": "Leica",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.324402"
+    "last_checked": "2025-07-05T09:53:34.934890"
   },
   {
     "mountpoint": "Altay",
     "format": "Leica",
     "gnss": "GPS+GLO",
-    "latitude": "52.28",
-    "longitude": "76.94",
+    "latitude": "49.725295",
+    "longitude": "84.272425",
     "city": "Altay",
     "provider": "Leica",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.324406"
+    "last_checked": "2025-07-05T09:53:34.934894"
   },
   {
     "mountpoint": "Taldykorgan",
@@ -239,7 +239,7 @@
     "city": "Taldykorgan",
     "provider": "Leica",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.324410"
+    "last_checked": "2025-07-05T09:53:34.934898"
   },
   {
     "mountpoint": "Turkestan",
@@ -250,7 +250,7 @@
     "city": "Turkestan",
     "provider": "Leica",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.324426"
+    "last_checked": "2025-07-05T09:53:34.934902"
   },
   {
     "mountpoint": "Karaganda",
@@ -261,7 +261,7 @@
     "city": "Karaganda",
     "provider": "Leica",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.324430"
+    "last_checked": "2025-07-05T09:53:34.934906"
   },
   {
     "mountpoint": "NEAR_Site",
@@ -272,7 +272,7 @@
     "city": "NEAR_Site",
     "provider": "Leica",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.324434"
+    "last_checked": "2025-07-05T09:53:34.934909"
   },
   {
     "mountpoint": "Shubarkol",
@@ -283,7 +283,7 @@
     "city": "Shubarkol",
     "provider": "Leica",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.324438"
+    "last_checked": "2025-07-05T09:53:34.934913"
   },
   {
     "mountpoint": "Suzdal",
@@ -294,7 +294,7 @@
     "city": "Suzdal",
     "provider": "Leica",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.324441"
+    "last_checked": "2025-07-05T09:53:34.934918"
   },
   {
     "mountpoint": "Kachary",
@@ -305,7 +305,7 @@
     "city": "Kachary",
     "provider": "Leica",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.324447"
+    "last_checked": "2025-07-05T09:53:34.934922"
   },
   {
     "mountpoint": "Schuchinsk",
@@ -316,7 +316,7 @@
     "city": "Schuchinsk",
     "provider": "Leica",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.324450"
+    "last_checked": "2025-07-05T09:53:34.934925"
   },
   {
     "mountpoint": "Ekibastuz",
@@ -327,7 +327,7 @@
     "city": "Ekibastuz",
     "provider": "Leica",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.324454"
+    "last_checked": "2025-07-05T09:53:34.934929"
   },
   {
     "mountpoint": "Skazka_Almaty",
@@ -338,7 +338,7 @@
     "city": "Skazka_Almaty",
     "provider": "Leica",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.324458"
+    "last_checked": "2025-07-05T09:53:34.934933"
   },
   {
     "mountpoint": "Khromtau",
@@ -349,7 +349,7 @@
     "city": "Khromtau",
     "provider": "Leica",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.324462"
+    "last_checked": "2025-07-05T09:53:34.934937"
   },
   {
     "mountpoint": "Aksay",
@@ -360,7 +360,7 @@
     "city": "Aksay",
     "provider": "Leica",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.324466"
+    "last_checked": "2025-07-05T09:53:34.934941"
   },
   {
     "mountpoint": "Esik",
@@ -371,18 +371,18 @@
     "city": "Esik",
     "provider": "Leica",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.324470"
+    "last_checked": "2025-07-05T09:53:34.934945"
   },
   {
     "mountpoint": "Semey",
     "format": "Leica",
     "gnss": "GPS & GLO",
-    "latitude": "50.39",
-    "longitude": "80.23",
+    "latitude": "50.390782",
+    "longitude": "80.226992",
     "city": "Semey",
     "provider": "Leica",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.324474"
+    "last_checked": "2025-07-05T09:53:34.934950"
   },
   {
     "mountpoint": "Shagyrly",
@@ -393,7 +393,7 @@
     "city": "Shagyrly",
     "provider": "Leica",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.324478"
+    "last_checked": "2025-07-05T09:53:34.934954"
   },
   {
     "mountpoint": "Kulsary",
@@ -404,7 +404,7 @@
     "city": "Kulsary",
     "provider": "Leica",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.324483"
+    "last_checked": "2025-07-05T09:53:34.934959"
   },
   {
     "mountpoint": "Astana_NU",
@@ -415,7 +415,7 @@
     "city": "Astana_NU",
     "provider": "Leica",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.324487"
+    "last_checked": "2025-07-05T09:53:34.934962"
   },
   {
     "mountpoint": "TGS1",
@@ -426,7 +426,7 @@
     "city": "TGS1",
     "provider": "Leica",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.324491"
+    "last_checked": "2025-07-05T09:53:34.934966"
   },
   {
     "mountpoint": "Karatobe",
@@ -437,7 +437,7 @@
     "city": "Karatobe",
     "provider": "Leica",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.324495"
+    "last_checked": "2025-07-05T09:53:34.934970"
   },
   {
     "mountpoint": "Chingerlau",
@@ -448,7 +448,7 @@
     "city": "Chingerlau",
     "provider": "Leica",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.324498"
+    "last_checked": "2025-07-05T09:53:34.934973"
   },
   {
     "mountpoint": "Taraz_new",
@@ -459,7 +459,7 @@
     "city": "Taraz_new",
     "provider": "Leica",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.324502"
+    "last_checked": "2025-07-05T09:53:34.934978"
   },
   {
     "mountpoint": "Zhezkazgan",
@@ -470,7 +470,18 @@
     "city": "Zhezkazgan",
     "provider": "Leica",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.324506"
+    "last_checked": "2025-07-05T09:53:34.934982"
+  },
+  {
+    "mountpoint": null,
+    "format": null,
+    "gnss": null,
+    "latitude": null,
+    "longitude": null,
+    "city": "",
+    "provider": null,
+    "status": "Online",
+    "last_checked": "2025-07-05T09:53:34.934987"
   },
   {
     "mountpoint": "Almaty",
@@ -481,7 +492,7 @@
     "city": "Almaty",
     "provider": "Leica",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.324510"
+    "last_checked": "2025-07-05T09:53:34.934991"
   },
   {
     "mountpoint": "AlmatyNetwork_RTCM",
@@ -492,18 +503,18 @@
     "city": "AlmatyNetwork_RTCM",
     "provider": "Leica",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.324515"
+    "last_checked": "2025-07-05T09:53:34.934995"
   },
   {
     "mountpoint": "Aktobe",
     "format": "RTCM 3",
     "gnss": "GPS+GLO+BDS",
-    "latitude": "51.14",
-    "longitude": "71.45",
+    "latitude": "50.29054",
+    "longitude": "57.143038",
     "city": "Aktobe",
     "provider": "Leica",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.324518"
+    "last_checked": "2025-07-05T09:53:34.934999"
   },
   {
     "mountpoint": "Zerenda",
@@ -514,18 +525,18 @@
     "city": "Zerenda",
     "provider": "Leica",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.324522"
+    "last_checked": "2025-07-05T09:53:34.935005"
   },
   {
     "mountpoint": "Ust-Kamenogorsk",
     "format": "RTCM 3",
     "gnss": "GPS+GLO+GAL+BDS",
-    "latitude": "52.28",
-    "longitude": "76.94",
+    "latitude": "49.97104",
+    "longitude": "82.600849",
     "city": "Ust-Kamenogorsk",
     "provider": "Leica",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.324526"
+    "last_checked": "2025-07-05T09:53:34.935012"
   },
   {
     "mountpoint": "Ekibastuz_Vost",
@@ -536,40 +547,40 @@
     "city": "Ekibastuz_Vost",
     "provider": "Leica",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.324530"
+    "last_checked": "2025-07-05T09:53:34.935019"
   },
   {
     "mountpoint": "Aktau",
     "format": "RTCM 3",
     "gnss": "GPS+GLO+BDS",
-    "latitude": "51.14",
-    "longitude": "71.45",
+    "latitude": "43.650902",
+    "longitude": "51.17137",
     "city": "Aktau",
     "provider": "Leica",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.324533"
+    "last_checked": "2025-07-05T09:53:34.935026"
   },
   {
     "mountpoint": "Altay",
     "format": "RTCM 3",
     "gnss": "GPS+GLO",
-    "latitude": "52.28",
-    "longitude": "76.94",
+    "latitude": "49.725295",
+    "longitude": "84.272425",
     "city": "Altay",
     "provider": "Leica",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.324537"
+    "last_checked": "2025-07-05T09:53:34.935035"
   },
   {
     "mountpoint": "Atyrau",
     "format": "RTCM 3",
     "gnss": "GPS+GLO+GAL+BDS",
-    "latitude": "52.28",
-    "longitude": "76.94",
+    "latitude": "47.093321",
+    "longitude": "51.88518",
     "city": "Atyrau",
     "provider": "Leica",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.324541"
+    "last_checked": "2025-07-05T09:53:34.935042"
   },
   {
     "mountpoint": "Almaty_2",
@@ -580,7 +591,7 @@
     "city": "Almaty_2",
     "provider": "Leica",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.324546"
+    "last_checked": "2025-07-05T09:53:34.935049"
   },
   {
     "mountpoint": "Kaskelen",
@@ -591,7 +602,7 @@
     "city": "Kaskelen",
     "provider": "Leica",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.324550"
+    "last_checked": "2025-07-05T09:53:34.935061"
   },
   {
     "mountpoint": "Korday",
@@ -602,7 +613,7 @@
     "city": "Korday",
     "provider": "Leica",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.324554"
+    "last_checked": "2025-07-05T09:53:34.935068"
   },
   {
     "mountpoint": "Kyzylorda",
@@ -613,18 +624,18 @@
     "city": "Kyzylorda",
     "provider": "Leica",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.324558"
+    "last_checked": "2025-07-05T09:53:34.935077"
   },
   {
     "mountpoint": "Astana",
     "format": "RTCM 3",
     "gnss": "GPS+GLO+GAL+BDS",
-    "latitude": "51.14",
-    "longitude": "71.45",
+    "latitude": "51.144813",
+    "longitude": "71.445556",
     "city": "Astana",
     "provider": "Leica",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.324608"
+    "last_checked": "2025-07-05T09:53:34.935084"
   },
   {
     "mountpoint": "Astana_Nazarbayev_University",
@@ -635,40 +646,40 @@
     "city": "Astana_Nazarbayev_University",
     "provider": "Leica",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.324615"
+    "last_checked": "2025-07-05T09:53:34.935092"
   },
   {
     "mountpoint": "Pavlodar",
     "format": "RTCM 3",
     "gnss": "GPS+GLO",
-    "latitude": "52.28",
-    "longitude": "76.94",
+    "latitude": "52.284508",
+    "longitude": "76.944585",
     "city": "Pavlodar",
     "provider": "Leica",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.324619"
+    "last_checked": "2025-07-05T09:53:34.935102"
   },
   {
     "mountpoint": "Ridder",
     "format": "RTCM 3",
     "gnss": "GPS+GLO",
-    "latitude": "52.28",
-    "longitude": "76.94",
+    "latitude": "50.340597",
+    "longitude": "83.503384",
     "city": "Ridder",
     "provider": "Leica",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.324623"
+    "last_checked": "2025-07-05T09:53:34.935108"
   },
   {
     "mountpoint": "Shymkent",
     "format": "RTCM 3",
     "gnss": "GPS+GLO+BDS",
-    "latitude": "51.14",
-    "longitude": "71.45",
+    "latitude": "42.330954",
+    "longitude": "69.618901",
     "city": "Shymkent",
     "provider": "Leica",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.324628"
+    "last_checked": "2025-07-05T09:53:34.935116"
   },
   {
     "mountpoint": "Tengiz_TCO",
@@ -679,18 +690,18 @@
     "city": "Tengiz_TCO",
     "provider": "Leica",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.324632"
+    "last_checked": "2025-07-05T09:53:34.935124"
   },
   {
     "mountpoint": "Uralsk",
     "format": "RTCM 3",
     "gnss": "GPS+GLO+BDS",
-    "latitude": "51.14",
-    "longitude": "71.45",
+    "latitude": "51.224354",
+    "longitude": "51.381905",
     "city": "Uralsk",
     "provider": "Leica",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.324636"
+    "last_checked": "2025-07-05T09:53:34.935149"
   },
   {
     "mountpoint": "Taldykorgan",
@@ -701,7 +712,7 @@
     "city": "Taldykorgan",
     "provider": "Leica",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.324640"
+    "last_checked": "2025-07-05T09:53:34.935158"
   },
   {
     "mountpoint": "Turkestan",
@@ -712,7 +723,7 @@
     "city": "Turkestan",
     "provider": "Leica",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.324644"
+    "last_checked": "2025-07-05T09:53:34.935167"
   },
   {
     "mountpoint": "Karaganda",
@@ -723,7 +734,7 @@
     "city": "Karaganda",
     "provider": "Leica",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.324648"
+    "last_checked": "2025-07-05T09:53:34.935175"
   },
   {
     "mountpoint": "NEAR_Site",
@@ -734,7 +745,7 @@
     "city": "NEAR_Site",
     "provider": "Leica",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.324652"
+    "last_checked": "2025-07-05T09:53:34.935186"
   },
   {
     "mountpoint": "VRS_AlmatyNET",
@@ -745,7 +756,7 @@
     "city": "VRS_AlmatyNET",
     "provider": "Leica",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.324656"
+    "last_checked": "2025-07-05T09:53:34.935193"
   },
   {
     "mountpoint": "Shubarkol",
@@ -756,7 +767,7 @@
     "city": "Shubarkol",
     "provider": "Leica",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.324661"
+    "last_checked": "2025-07-05T09:53:34.935201"
   },
   {
     "mountpoint": "Suzdal",
@@ -767,7 +778,7 @@
     "city": "Suzdal",
     "provider": "Leica",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.324664"
+    "last_checked": "2025-07-05T09:53:34.935208"
   },
   {
     "mountpoint": "Kachary",
@@ -778,7 +789,7 @@
     "city": "Kachary",
     "provider": "Leica",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.324669"
+    "last_checked": "2025-07-05T09:53:34.935213"
   },
   {
     "mountpoint": "Schuchinsk",
@@ -789,7 +800,7 @@
     "city": "Schuchinsk",
     "provider": "Leica",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.324673"
+    "last_checked": "2025-07-05T09:53:34.935219"
   },
   {
     "mountpoint": "Ekibastuz",
@@ -800,7 +811,7 @@
     "city": "Ekibastuz",
     "provider": "Leica",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.324676"
+    "last_checked": "2025-07-05T09:53:34.935222"
   },
   {
     "mountpoint": "Skazka_Almaty",
@@ -811,7 +822,7 @@
     "city": "Skazka_Almaty",
     "provider": "Leica",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.324680"
+    "last_checked": "2025-07-05T09:53:34.935226"
   },
   {
     "mountpoint": "Khromtau",
@@ -822,7 +833,7 @@
     "city": "Khromtau",
     "provider": "Leica",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.324684"
+    "last_checked": "2025-07-05T09:53:34.935265"
   },
   {
     "mountpoint": "Aksay",
@@ -833,7 +844,7 @@
     "city": "Aksay",
     "provider": "Leica",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.324688"
+    "last_checked": "2025-07-05T09:53:34.935274"
   },
   {
     "mountpoint": "Esik",
@@ -844,18 +855,18 @@
     "city": "Esik",
     "provider": "Leica",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.324732"
+    "last_checked": "2025-07-05T09:53:34.935282"
   },
   {
     "mountpoint": "Semey",
     "format": "RTCM 3",
     "gnss": "GPS+GLO+BDS",
-    "latitude": "50.39",
-    "longitude": "80.23",
+    "latitude": "50.390782",
+    "longitude": "80.226992",
     "city": "Semey",
     "provider": "Leica",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.324737"
+    "last_checked": "2025-07-05T09:53:34.935286"
   },
   {
     "mountpoint": "Shagyrly",
@@ -866,7 +877,7 @@
     "city": "Shagyrly",
     "provider": "Leica",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.324741"
+    "last_checked": "2025-07-05T09:53:34.935290"
   },
   {
     "mountpoint": "Kulsary",
@@ -877,7 +888,7 @@
     "city": "Kulsary",
     "provider": "Leica",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.324745"
+    "last_checked": "2025-07-05T09:53:34.935294"
   },
   {
     "mountpoint": "Astana_NU",
@@ -888,7 +899,7 @@
     "city": "Astana_NU",
     "provider": "Leica",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.324749"
+    "last_checked": "2025-07-05T09:53:34.935298"
   },
   {
     "mountpoint": "TGS1",
@@ -899,7 +910,7 @@
     "city": "TGS1",
     "provider": "Leica",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.324752"
+    "last_checked": "2025-07-05T09:53:34.935301"
   },
   {
     "mountpoint": "Karatobe",
@@ -910,7 +921,7 @@
     "city": "Karatobe",
     "provider": "Leica",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.324756"
+    "last_checked": "2025-07-05T09:53:34.935311"
   },
   {
     "mountpoint": "Chingerlau",
@@ -921,7 +932,7 @@
     "city": "Chingerlau",
     "provider": "Leica",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.324760"
+    "last_checked": "2025-07-05T09:53:34.935315"
   },
   {
     "mountpoint": "Astana_NU_MSM5",
@@ -932,7 +943,7 @@
     "city": "Astana_NU_MSM5",
     "provider": "Leica",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.324767"
+    "last_checked": "2025-07-05T09:53:34.935319"
   },
   {
     "mountpoint": "Nearest",
@@ -943,7 +954,7 @@
     "city": "Nearest",
     "provider": "Leica",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.324770"
+    "last_checked": "2025-07-05T09:53:34.935323"
   },
   {
     "mountpoint": "Aksay_rtcm",
@@ -954,7 +965,7 @@
     "city": "Aksay_rtcm",
     "provider": "Leica",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.324774"
+    "last_checked": "2025-07-05T09:53:34.935334"
   },
   {
     "mountpoint": "Taraz_new",
@@ -965,7 +976,7 @@
     "city": "Taraz_new",
     "provider": "Leica",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.324778"
+    "last_checked": "2025-07-05T09:53:34.935339"
   },
   {
     "mountpoint": "Zhezkazgan",
@@ -976,18 +987,29 @@
     "city": "Zhezkazgan",
     "provider": "Leica",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.324781"
+    "last_checked": "2025-07-05T09:53:34.935343"
   },
   {
     "mountpoint": "Chapayev_RTCM",
     "format": "RTCM 3",
     "gnss": "GPS+GLO+GAL+BDS",
-    "latitude": "50.18",
-    "longitude": "51.18",
+    "latitude": "50.179597",
+    "longitude": "51.176361",
     "city": "Chapayev_RTCM",
     "provider": "Leica",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.324785"
+    "last_checked": "2025-07-05T09:53:34.935349"
+  },
+  {
+    "mountpoint": null,
+    "format": null,
+    "gnss": null,
+    "latitude": null,
+    "longitude": null,
+    "city": "",
+    "provider": null,
+    "status": "Online",
+    "last_checked": "2025-07-05T09:53:34.935357"
   },
   {
     "mountpoint": "AKSACMRP",
@@ -998,7 +1020,7 @@
     "city": "AksayCMR+",
     "provider": "Geokurs",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.324789"
+    "last_checked": "2025-07-05T09:53:34.935369"
   },
   {
     "mountpoint": "AKSACMRX",
@@ -1009,7 +1031,7 @@
     "city": "AksayCMRX",
     "provider": "Geokurs",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.324797"
+    "last_checked": "2025-07-05T09:53:34.935378"
   },
   {
     "mountpoint": "AKSARTCM31",
@@ -1020,7 +1042,7 @@
     "city": "AksayRTCM3.1",
     "provider": "Geokurs",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.324803"
+    "last_checked": "2025-07-05T09:53:34.935386"
   },
   {
     "mountpoint": "AKSARTCM32",
@@ -1031,7 +1053,7 @@
     "city": "AksayRTCM3.2",
     "provider": "Geokurs",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.324807"
+    "last_checked": "2025-07-05T09:53:34.935396"
   },
   {
     "mountpoint": "AKTACMRP",
@@ -1042,7 +1064,7 @@
     "city": "AktauCMR+",
     "provider": "Geokurs",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.324811"
+    "last_checked": "2025-07-05T09:53:34.935404"
   },
   {
     "mountpoint": "AKTACMRX",
@@ -1053,7 +1075,7 @@
     "city": "AktauCMRX",
     "provider": "Geokurs",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.324816"
+    "last_checked": "2025-07-05T09:53:34.935412"
   },
   {
     "mountpoint": "AKTARTCM31",
@@ -1064,7 +1086,7 @@
     "city": "AktauRTCM3.1",
     "provider": "Geokurs",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.324820"
+    "last_checked": "2025-07-05T09:53:34.935420"
   },
   {
     "mountpoint": "AKTARTCM32",
@@ -1075,7 +1097,7 @@
     "city": "AktauRTCM3.2",
     "provider": "Geokurs",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.324824"
+    "last_checked": "2025-07-05T09:53:34.935429"
   },
   {
     "mountpoint": "AKTBCMRP",
@@ -1086,7 +1108,7 @@
     "city": "AktobeCMR+",
     "provider": "Geokurs",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.324828"
+    "last_checked": "2025-07-05T09:53:34.935441"
   },
   {
     "mountpoint": "AKTBCMRX",
@@ -1097,7 +1119,7 @@
     "city": "AktobeCMRX",
     "provider": "Geokurs",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.324832"
+    "last_checked": "2025-07-05T09:53:34.935449"
   },
   {
     "mountpoint": "AKTBRTCM31",
@@ -1108,7 +1130,7 @@
     "city": "AktobeRTCM3.1",
     "provider": "Geokurs",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.324837"
+    "last_checked": "2025-07-05T09:53:34.935458"
   },
   {
     "mountpoint": "AKTBRTCM32",
@@ -1119,7 +1141,7 @@
     "city": "AktobeRTCM3.2",
     "provider": "Geokurs",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.324841"
+    "last_checked": "2025-07-05T09:53:34.935467"
   },
   {
     "mountpoint": "ALM3CMRX",
@@ -1130,7 +1152,7 @@
     "city": "AlmatyCMRX",
     "provider": "Geokurs",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.324845"
+    "last_checked": "2025-07-05T09:53:34.935475"
   },
   {
     "mountpoint": "ALM3RTCM31",
@@ -1141,7 +1163,7 @@
     "city": "AlmatyRTCM3.1",
     "provider": "Geokurs",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.324849"
+    "last_checked": "2025-07-05T09:53:34.935483"
   },
   {
     "mountpoint": "ALM3RTCM32",
@@ -1152,7 +1174,7 @@
     "city": "AlmatyRTCM3.2",
     "provider": "Geokurs",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.324853"
+    "last_checked": "2025-07-05T09:53:34.935491"
   },
   {
     "mountpoint": "ALMACMRP",
@@ -1163,7 +1185,7 @@
     "city": "AlmatyCMR+",
     "provider": "Geokurs",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.324857"
+    "last_checked": "2025-07-05T09:53:34.935498"
   },
   {
     "mountpoint": "ALMARTCM32",
@@ -1174,7 +1196,7 @@
     "city": "AlmatyRTCM3.2",
     "provider": "Geokurs",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.324861"
+    "last_checked": "2025-07-05T09:53:34.935504"
   },
   {
     "mountpoint": "AS63RTCM2",
@@ -1185,7 +1207,7 @@
     "city": "Astana63RTCM2.3",
     "provider": "Geokurs",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.324865"
+    "last_checked": "2025-07-05T09:53:34.935509"
   },
   {
     "mountpoint": "AS63RTCM32",
@@ -1196,7 +1218,7 @@
     "city": "Astana63RTCM3.2",
     "provider": "Geokurs",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.324870"
+    "last_checked": "2025-07-05T09:53:34.935513"
   },
   {
     "mountpoint": "AS63RTCM3",
@@ -1207,7 +1229,7 @@
     "city": "Astana63RTCM3.1",
     "provider": "Geokurs",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.324874"
+    "last_checked": "2025-07-05T09:53:34.935559"
   },
   {
     "mountpoint": "AST1CMRP",
@@ -1218,7 +1240,7 @@
     "city": "AstanaCMR+",
     "provider": "Geokurs",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.324878"
+    "last_checked": "2025-07-05T09:53:34.935567"
   },
   {
     "mountpoint": "AST1CMRX",
@@ -1229,7 +1251,7 @@
     "city": "AstanaCMRx",
     "provider": "Geokurs",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.324882"
+    "last_checked": "2025-07-05T09:53:34.935573"
   },
   {
     "mountpoint": "AST1RTCM31",
@@ -1240,7 +1262,7 @@
     "city": "AstanaRTCM3.1",
     "provider": "Geokurs",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.324886"
+    "last_checked": "2025-07-05T09:53:34.935580"
   },
   {
     "mountpoint": "AST1RTCM32",
@@ -1251,7 +1273,7 @@
     "city": "AstanaRTCM3.2",
     "provider": "Geokurs",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.324891"
+    "last_checked": "2025-07-05T09:53:34.935585"
   },
   {
     "mountpoint": "ARALRTCM31",
@@ -1262,7 +1284,7 @@
     "city": "AralRTCM3.1",
     "provider": "Geokurs",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.324896"
+    "last_checked": "2025-07-05T09:53:34.935589"
   },
   {
     "mountpoint": "ARALRTCM32",
@@ -1273,7 +1295,7 @@
     "city": "AralRTCM3.2",
     "provider": "Geokurs",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.324900"
+    "last_checked": "2025-07-05T09:53:34.935595"
   },
   {
     "mountpoint": "ATRUCMRX",
@@ -1284,7 +1306,7 @@
     "city": "AtyrauCMRx",
     "provider": "Geokurs",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.324904"
+    "last_checked": "2025-07-05T09:53:34.935599"
   },
   {
     "mountpoint": "ATRURTCM32",
@@ -1295,7 +1317,7 @@
     "city": "AtyrauRTCM3.2",
     "provider": "Geokurs",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.324910"
+    "last_checked": "2025-07-05T09:53:34.935603"
   },
   {
     "mountpoint": "ATBSCMRP",
@@ -1306,7 +1328,7 @@
     "city": "AtbasarCMR+",
     "provider": "Geokurs",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.324914"
+    "last_checked": "2025-07-05T09:53:34.935607"
   },
   {
     "mountpoint": "ATBSCMRX",
@@ -1317,7 +1339,7 @@
     "city": "AtbasarCMRx",
     "provider": "Geokurs",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.324917"
+    "last_checked": "2025-07-05T09:53:34.935610"
   },
   {
     "mountpoint": "ATBSRTCM31",
@@ -1328,7 +1350,7 @@
     "city": "AtbasarRTCM3.1",
     "provider": "Geokurs",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.324921"
+    "last_checked": "2025-07-05T09:53:34.935614"
   },
   {
     "mountpoint": "ATBSRTCM32",
@@ -1339,7 +1361,7 @@
     "city": "AtbasarRTCM3.2",
     "provider": "Geokurs",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.324925"
+    "last_checked": "2025-07-05T09:53:34.935619"
   },
   {
     "mountpoint": "BKHTCMRP",
@@ -1350,7 +1372,7 @@
     "city": "BukhtarmaCMR+",
     "provider": "Geokurs",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.324929"
+    "last_checked": "2025-07-05T09:53:34.935622"
   },
   {
     "mountpoint": "BKHTCMRX",
@@ -1361,7 +1383,7 @@
     "city": "BukhtarmaCMRx",
     "provider": "Geokurs",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.324934"
+    "last_checked": "2025-07-05T09:53:34.935627"
   },
   {
     "mountpoint": "BKHTRTCM31",
@@ -1372,7 +1394,7 @@
     "city": "BukhtarmaRTCM3.1",
     "provider": "Geokurs",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.324942"
+    "last_checked": "2025-07-05T09:53:34.935632"
   },
   {
     "mountpoint": "BKHTRTCM32",
@@ -1383,7 +1405,7 @@
     "city": "BukhtarmaRTCM3.2",
     "provider": "Geokurs",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.324953"
+    "last_checked": "2025-07-05T09:53:34.935636"
   },
   {
     "mountpoint": "BEYNCMRP",
@@ -1394,7 +1416,7 @@
     "city": "BeyneuCMR+",
     "provider": "Geokurs",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.324960"
+    "last_checked": "2025-07-05T09:53:34.935640"
   },
   {
     "mountpoint": "BEYNCMRX",
@@ -1405,7 +1427,7 @@
     "city": "BeyneuCMRx",
     "provider": "Geokurs",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.324968"
+    "last_checked": "2025-07-05T09:53:34.935644"
   },
   {
     "mountpoint": "BEYNRTCM31",
@@ -1416,7 +1438,7 @@
     "city": "BeyneuRTCM3.1",
     "provider": "Geokurs",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.324972"
+    "last_checked": "2025-07-05T09:53:34.935648"
   },
   {
     "mountpoint": "BEYNRTCM32",
@@ -1427,7 +1449,7 @@
     "city": "BeyneuRTCM3.2",
     "provider": "Geokurs",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.324977"
+    "last_checked": "2025-07-05T09:53:34.935652"
   },
   {
     "mountpoint": "EKBSCMRP",
@@ -1438,7 +1460,7 @@
     "city": "EkibastuzCMR+",
     "provider": "Geokurs",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.324981"
+    "last_checked": "2025-07-05T09:53:34.935656"
   },
   {
     "mountpoint": "EKBSRTCM32",
@@ -1449,7 +1471,7 @@
     "city": "EkibastuzRTCM3.2",
     "provider": "Geokurs",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.324985"
+    "last_checked": "2025-07-05T09:53:34.935660"
   },
   {
     "mountpoint": "INDRCMRP",
@@ -1460,7 +1482,7 @@
     "city": "InderCMR+",
     "provider": "Geokurs",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.324988"
+    "last_checked": "2025-07-05T09:53:34.935666"
   },
   {
     "mountpoint": "INDRCMRX",
@@ -1471,7 +1493,7 @@
     "city": "InderCMRx",
     "provider": "Geokurs",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.324992"
+    "last_checked": "2025-07-05T09:53:34.935670"
   },
   {
     "mountpoint": "INDRRTCM31",
@@ -1482,7 +1504,7 @@
     "city": "InderRTCM3.1",
     "provider": "Geokurs",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.324999"
+    "last_checked": "2025-07-05T09:53:34.935691"
   },
   {
     "mountpoint": "INDRRTCM32",
@@ -1493,7 +1515,7 @@
     "city": "InderRTCM3.2",
     "provider": "Geokurs",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325016"
+    "last_checked": "2025-07-05T09:53:34.935695"
   },
   {
     "mountpoint": "JTSYCMRP",
@@ -1504,7 +1526,7 @@
     "city": "JetysayCMR+",
     "provider": "Geokurs",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325020"
+    "last_checked": "2025-07-05T09:53:34.935699"
   },
   {
     "mountpoint": "JTSYRTCM32",
@@ -1515,7 +1537,7 @@
     "city": "JetysayRTCM3.2",
     "provider": "Geokurs",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325024"
+    "last_checked": "2025-07-05T09:53:34.935703"
   },
   {
     "mountpoint": "JRKTCMRP",
@@ -1526,7 +1548,7 @@
     "city": "JRKTKCMR+",
     "provider": "Geokurs",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325028"
+    "last_checked": "2025-07-05T09:53:34.935707"
   },
   {
     "mountpoint": "JRKTCMRX",
@@ -1537,7 +1559,7 @@
     "city": "JRKTKCMRx",
     "provider": "Geokurs",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325032"
+    "last_checked": "2025-07-05T09:53:34.935711"
   },
   {
     "mountpoint": "JRKTRTCM32",
@@ -1548,7 +1570,7 @@
     "city": "JRKTKRTCM3.2",
     "provider": "Geokurs",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325036"
+    "last_checked": "2025-07-05T09:53:34.935716"
   },
   {
     "mountpoint": "KEGNCMRX",
@@ -1559,7 +1581,7 @@
     "city": "KegenCMRx",
     "provider": "Geokurs",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325040"
+    "last_checked": "2025-07-05T09:53:34.935720"
   },
   {
     "mountpoint": "KEGNRTCM32",
@@ -1570,7 +1592,7 @@
     "city": "KegenRTCM3.2",
     "provider": "Geokurs",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325050"
+    "last_checked": "2025-07-05T09:53:34.935725"
   },
   {
     "mountpoint": "KKSHCMRP",
@@ -1581,7 +1603,7 @@
     "city": "KokshetauCMR+",
     "provider": "Geokurs",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325054"
+    "last_checked": "2025-07-05T09:53:34.935728"
   },
   {
     "mountpoint": "KKSHCMRX",
@@ -1592,7 +1614,7 @@
     "city": "KokshetauCMRx",
     "provider": "Geokurs",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325058"
+    "last_checked": "2025-07-05T09:53:34.935732"
   },
   {
     "mountpoint": "KKSHRTCM31",
@@ -1603,7 +1625,7 @@
     "city": "KokshetauRTCM3.1",
     "provider": "Geokurs",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325062"
+    "last_checked": "2025-07-05T09:53:34.935736"
   },
   {
     "mountpoint": "KKSHRTCM32",
@@ -1614,7 +1636,7 @@
     "city": "KokshetauRTCM3.2",
     "provider": "Geokurs",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325067"
+    "last_checked": "2025-07-05T09:53:34.935741"
   },
   {
     "mountpoint": "KLSRCMRP",
@@ -1625,7 +1647,7 @@
     "city": "KulsaryCMR+",
     "provider": "Geokurs",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325071"
+    "last_checked": "2025-07-05T09:53:34.935746"
   },
   {
     "mountpoint": "KLSRRTCM32",
@@ -1636,7 +1658,7 @@
     "city": "KulsaryRTCM3.2",
     "provider": "Geokurs",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325075"
+    "last_checked": "2025-07-05T09:53:34.935750"
   },
   {
     "mountpoint": "KRCHCMRX",
@@ -1647,7 +1669,7 @@
     "city": "KurchatovCMRx",
     "provider": "Geokurs",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325079"
+    "last_checked": "2025-07-05T09:53:34.935755"
   },
   {
     "mountpoint": "KRCHRTCM31",
@@ -1658,7 +1680,7 @@
     "city": "KurchatovCM3.1",
     "provider": "Geokurs",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325083"
+    "last_checked": "2025-07-05T09:53:34.935759"
   },
   {
     "mountpoint": "KRCHRTCM32",
@@ -1669,7 +1691,7 @@
     "city": "KurchatovCM3.2",
     "provider": "Geokurs",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325091"
+    "last_checked": "2025-07-05T09:53:34.935765"
   },
   {
     "mountpoint": "KRDACMRP",
@@ -1680,7 +1702,7 @@
     "city": "KordayCMRP",
     "provider": "Geokurs",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325095"
+    "last_checked": "2025-07-05T09:53:34.935768"
   },
   {
     "mountpoint": "KRDACMRX",
@@ -1691,7 +1713,7 @@
     "city": "KordayCMRX",
     "provider": "Geokurs",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325100"
+    "last_checked": "2025-07-05T09:53:34.935772"
   },
   {
     "mountpoint": "KRDARTCM31",
@@ -1702,7 +1724,7 @@
     "city": "KordayRTCM3.1",
     "provider": "Geokurs",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325104"
+    "last_checked": "2025-07-05T09:53:34.935776"
   },
   {
     "mountpoint": "KRDARTCM32",
@@ -1713,7 +1735,7 @@
     "city": "KordayRTCM3.2",
     "provider": "Geokurs",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325108"
+    "last_checked": "2025-07-05T09:53:34.935781"
   },
   {
     "mountpoint": "KRGDCMRP",
@@ -1724,7 +1746,7 @@
     "city": "KaragandaCMR+",
     "provider": "Geokurs",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325112"
+    "last_checked": "2025-07-05T09:53:34.935784"
   },
   {
     "mountpoint": "KRGDCMRX",
@@ -1735,7 +1757,7 @@
     "city": "KaragandaCMRx",
     "provider": "Geokurs",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325115"
+    "last_checked": "2025-07-05T09:53:34.935789"
   },
   {
     "mountpoint": "KRGDRTCM31",
@@ -1746,7 +1768,7 @@
     "city": "KaragandaRTCM31",
     "provider": "Geokurs",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325119"
+    "last_checked": "2025-07-05T09:53:34.935794"
   },
   {
     "mountpoint": "KRGDRTCM32",
@@ -1757,7 +1779,7 @@
     "city": "KaragandaRTCM3.2",
     "provider": "Geokurs",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325123"
+    "last_checked": "2025-07-05T09:53:34.935798"
   },
   {
     "mountpoint": "KSTNCMRP",
@@ -1768,7 +1790,7 @@
     "city": "KostanayCMR+",
     "provider": "Geokurs",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325129"
+    "last_checked": "2025-07-05T09:53:34.935802"
   },
   {
     "mountpoint": "KSTNCMRX",
@@ -1779,7 +1801,7 @@
     "city": "KostanayCMRx",
     "provider": "Geokurs",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325133"
+    "last_checked": "2025-07-05T09:53:34.935805"
   },
   {
     "mountpoint": "KSTNRTCM31",
@@ -1790,7 +1812,7 @@
     "city": "KostanayRTCM3.1",
     "provider": "Geokurs",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325137"
+    "last_checked": "2025-07-05T09:53:34.935810"
   },
   {
     "mountpoint": "KSTNRTCM32",
@@ -1801,7 +1823,7 @@
     "city": "KostanayRTCM3.2",
     "provider": "Geokurs",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325141"
+    "last_checked": "2025-07-05T09:53:34.935814"
   },
   {
     "mountpoint": "KZLNCMRP",
@@ -1812,7 +1834,7 @@
     "city": "KazalinskCMR+",
     "provider": "Geokurs",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325145"
+    "last_checked": "2025-07-05T09:53:34.935817"
   },
   {
     "mountpoint": "KZLNRTCM31",
@@ -1823,7 +1845,7 @@
     "city": "KazalinskRTCM3.1",
     "provider": "Geokurs",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325149"
+    "last_checked": "2025-07-05T09:53:34.935821"
   },
   {
     "mountpoint": "KZLRCMRP",
@@ -1834,7 +1856,7 @@
     "city": "KyzylordaCMR+",
     "provider": "Geokurs",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325153"
+    "last_checked": "2025-07-05T09:53:34.935828"
   },
   {
     "mountpoint": "KZLRRTCM32",
@@ -1845,7 +1867,7 @@
     "city": "KyzylordaRTCM3.2",
     "provider": "Geokurs",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325157"
+    "last_checked": "2025-07-05T09:53:34.935832"
   },
   {
     "mountpoint": "KZTLCMRP",
@@ -1856,7 +1878,7 @@
     "city": "KCMR+",
     "provider": "Geokurs",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325161"
+    "last_checked": "2025-07-05T09:53:34.935836"
   },
   {
     "mountpoint": "KZTLCMRX",
@@ -1867,7 +1889,7 @@
     "city": "KCMRx",
     "provider": "Geokurs",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325165"
+    "last_checked": "2025-07-05T09:53:34.935839"
   },
   {
     "mountpoint": "KZTLRTCM31",
@@ -1878,7 +1900,7 @@
     "city": "KRTCM3.1",
     "provider": "Geokurs",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325169"
+    "last_checked": "2025-07-05T09:53:34.935843"
   },
   {
     "mountpoint": "MXMBCMRP",
@@ -1889,7 +1911,7 @@
     "city": "MaxambetCMR+",
     "provider": "Geokurs",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325172"
+    "last_checked": "2025-07-05T09:53:34.935848"
   },
   {
     "mountpoint": "MXMBRTCM31",
@@ -1900,7 +1922,7 @@
     "city": "MaxambetRTCM3.1",
     "provider": "Geokurs",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325177"
+    "last_checked": "2025-07-05T09:53:34.935852"
   },
   {
     "mountpoint": "NURACMRP",
@@ -1911,7 +1933,7 @@
     "city": "NuraCMR+",
     "provider": "Geokurs",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325181"
+    "last_checked": "2025-07-05T09:53:34.935856"
   },
   {
     "mountpoint": "NURARTCM32",
@@ -1922,7 +1944,7 @@
     "city": "NuraRTCM3.1",
     "provider": "Geokurs",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325186"
+    "last_checked": "2025-07-05T09:53:34.935862"
   },
   {
     "mountpoint": "NVSMCMRX",
@@ -1933,7 +1955,7 @@
     "city": "NovolshinkacMRP",
     "provider": "Geokurs",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325189"
+    "last_checked": "2025-07-05T09:53:34.935865"
   },
   {
     "mountpoint": "NVSMCMRP",
@@ -1944,7 +1966,7 @@
     "city": "NovolshinkacMRP",
     "provider": "Geokurs",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325194"
+    "last_checked": "2025-07-05T09:53:34.935869"
   },
   {
     "mountpoint": "NVSMRTCM32",
@@ -1955,7 +1977,7 @@
     "city": "NovolshinkacRTCM3.2",
     "provider": "Geokurs",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325198"
+    "last_checked": "2025-07-05T09:53:34.935873"
   },
   {
     "mountpoint": "NVSMRTCM31",
@@ -1966,7 +1988,7 @@
     "city": "NovolshinkacRTCM3.1",
     "provider": "Geokurs",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325202"
+    "last_checked": "2025-07-05T09:53:34.935877"
   },
   {
     "mountpoint": "PTRPCMRP",
@@ -1977,7 +1999,7 @@
     "city": "PetropCMR+",
     "provider": "Geokurs",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325207"
+    "last_checked": "2025-07-05T09:53:34.935882"
   },
   {
     "mountpoint": "PTRPRTCM32",
@@ -1988,7 +2010,7 @@
     "city": "PetropRTCM3.2",
     "provider": "Geokurs",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325211"
+    "last_checked": "2025-07-05T09:53:34.935886"
   },
   {
     "mountpoint": "PVLDCMRX",
@@ -1999,7 +2021,7 @@
     "city": "PavlodarCMRx",
     "provider": "Geokurs",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325215"
+    "last_checked": "2025-07-05T09:53:34.935890"
   },
   {
     "mountpoint": "PVLDCMRP",
@@ -2010,7 +2032,7 @@
     "city": "PavlodarCMR+",
     "provider": "Geokurs",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325218"
+    "last_checked": "2025-07-05T09:53:34.935894"
   },
   {
     "mountpoint": "PVLDRTCM31",
@@ -2021,7 +2043,7 @@
     "city": "PavlodarRTCM3.1",
     "provider": "Geokurs",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325222"
+    "last_checked": "2025-07-05T09:53:34.935899"
   },
   {
     "mountpoint": "PVLDRTCM32",
@@ -2032,7 +2054,7 @@
     "city": "PavlodarRTCM3.2",
     "provider": "Geokurs",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325226"
+    "last_checked": "2025-07-05T09:53:34.935903"
   },
   {
     "mountpoint": "QNAYCMRP",
@@ -2043,7 +2065,7 @@
     "city": "QonayevCMR+",
     "provider": "Geokurs",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325231"
+    "last_checked": "2025-07-05T09:53:34.935907"
   },
   {
     "mountpoint": "QNAYRTCM32",
@@ -2054,7 +2076,7 @@
     "city": "QonayevRTCM3.2",
     "provider": "Geokurs",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325238"
+    "last_checked": "2025-07-05T09:53:34.935911"
   },
   {
     "mountpoint": "RDDRCMRX",
@@ -2065,7 +2087,7 @@
     "city": "RidderCMRX",
     "provider": "Geokurs",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325245"
+    "last_checked": "2025-07-05T09:53:34.935915"
   },
   {
     "mountpoint": "RDDRRTCM31",
@@ -2076,7 +2098,7 @@
     "city": "RidderRTCM3",
     "provider": "Geokurs",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325253"
+    "last_checked": "2025-07-05T09:53:34.935919"
   },
   {
     "mountpoint": "SHCHCMRP",
@@ -2087,7 +2109,7 @@
     "city": "ShchuchinskCMR+",
     "provider": "Geokurs",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325258"
+    "last_checked": "2025-07-05T09:53:34.935923"
   },
   {
     "mountpoint": "SHCHCMRX",
@@ -2098,7 +2120,7 @@
     "city": "ShchuchinskCMRx",
     "provider": "Geokurs",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325262"
+    "last_checked": "2025-07-05T09:53:34.935928"
   },
   {
     "mountpoint": "SHCHRTCM31",
@@ -2109,7 +2131,7 @@
     "city": "ShchuchinskRTCM3.0",
     "provider": "Geokurs",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325266"
+    "last_checked": "2025-07-05T09:53:34.935933"
   },
   {
     "mountpoint": "SHCHRTCM32",
@@ -2120,7 +2142,7 @@
     "city": "ShchuchinskRTCM3.2",
     "provider": "Geokurs",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325272"
+    "last_checked": "2025-07-05T09:53:34.935964"
   },
   {
     "mountpoint": "SHM2CMRP",
@@ -2131,7 +2153,7 @@
     "city": "Shymkent2CMR+",
     "provider": "Geokurs",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325277"
+    "last_checked": "2025-07-05T09:53:34.935972"
   },
   {
     "mountpoint": "SHM2RTCM32",
@@ -2142,7 +2164,7 @@
     "city": "Shymkent2RTCM3.2",
     "provider": "Geokurs",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325293"
+    "last_checked": "2025-07-05T09:53:34.935979"
   },
   {
     "mountpoint": "SHNJCMRX",
@@ -2153,7 +2175,7 @@
     "city": "ShonjaCMRx",
     "provider": "Geokurs",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325297"
+    "last_checked": "2025-07-05T09:53:34.935985"
   },
   {
     "mountpoint": "SHNJRTCM32",
@@ -2164,7 +2186,7 @@
     "city": "ShonjaRTCM3.2",
     "provider": "Geokurs",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325301"
+    "last_checked": "2025-07-05T09:53:34.935990"
   },
   {
     "mountpoint": "SMSKRTCM32",
@@ -2175,7 +2197,7 @@
     "city": "SemeyRTCM3.2",
     "provider": "Geokurs",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325305"
+    "last_checked": "2025-07-05T09:53:34.935994"
   },
   {
     "mountpoint": "SMSKRTCM3",
@@ -2186,7 +2208,7 @@
     "city": "SemeyRTCM3.0",
     "provider": "Geokurs",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325309"
+    "last_checked": "2025-07-05T09:53:34.935998"
   },
   {
     "mountpoint": "STPNRTCM32",
@@ -2197,7 +2219,7 @@
     "city": "StepnogorskRTCM3.2",
     "provider": "Geokurs",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325313"
+    "last_checked": "2025-07-05T09:53:34.936002"
   },
   {
     "mountpoint": "SRZKCMRP",
@@ -2208,7 +2230,7 @@
     "city": "SaryozekCMR+",
     "provider": "Geokurs",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325317"
+    "last_checked": "2025-07-05T09:53:34.936009"
   },
   {
     "mountpoint": "SRZKRTCM32",
@@ -2219,7 +2241,7 @@
     "city": "SaryozekRTCM3.2",
     "provider": "Geokurs",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325323"
+    "last_checked": "2025-07-05T09:53:34.936013"
   },
   {
     "mountpoint": "TARZCMRP",
@@ -2230,7 +2252,7 @@
     "city": "TarazCMR+",
     "provider": "Geokurs",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325332"
+    "last_checked": "2025-07-05T09:53:34.936016"
   },
   {
     "mountpoint": "TARZCMRX",
@@ -2241,7 +2263,7 @@
     "city": "TarazCMRx",
     "provider": "Geokurs",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325348"
+    "last_checked": "2025-07-05T09:53:34.936020"
   },
   {
     "mountpoint": "TARZRTCM31",
@@ -2252,7 +2274,7 @@
     "city": "TarazRTCM3.1",
     "provider": "Geokurs",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325352"
+    "last_checked": "2025-07-05T09:53:34.936024"
   },
   {
     "mountpoint": "TARZRTCM32",
@@ -2263,7 +2285,7 @@
     "city": "TarazRTCM3.2",
     "provider": "Geokurs",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325356"
+    "last_checked": "2025-07-05T09:53:34.936028"
   },
   {
     "mountpoint": "TEKECMRP",
@@ -2274,7 +2296,7 @@
     "city": "TekelyCMR+",
     "provider": "Geokurs",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325360"
+    "last_checked": "2025-07-05T09:53:34.936034"
   },
   {
     "mountpoint": "TEKECMRX",
@@ -2285,7 +2307,7 @@
     "city": "TekelyCMRz",
     "provider": "Geokurs",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325364"
+    "last_checked": "2025-07-05T09:53:34.936041"
   },
   {
     "mountpoint": "TEKERTCM31",
@@ -2296,7 +2318,7 @@
     "city": "TekelyRTCM3.1",
     "provider": "Geokurs",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325368"
+    "last_checked": "2025-07-05T09:53:34.936050"
   },
   {
     "mountpoint": "TLDKCMRX",
@@ -2307,7 +2329,7 @@
     "city": "TaldykorganCMRX",
     "provider": "Geokurs",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325372"
+    "last_checked": "2025-07-05T09:53:34.936068"
   },
   {
     "mountpoint": "TLDKRTCM32",
@@ -2318,7 +2340,7 @@
     "city": "TaldykorganRTCM3.2",
     "provider": "Geokurs",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325377"
+    "last_checked": "2025-07-05T09:53:34.936076"
   },
   {
     "mountpoint": "TNZ2CMRP",
@@ -2329,7 +2351,7 @@
     "city": "Tengiz2CMR+",
     "provider": "Geokurs",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325381"
+    "last_checked": "2025-07-05T09:53:34.936080"
   },
   {
     "mountpoint": "TNZ2CMRX",
@@ -2340,7 +2362,7 @@
     "city": "Tengiz2CMRx",
     "provider": "Geokurs",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325385"
+    "last_checked": "2025-07-05T09:53:34.936084"
   },
   {
     "mountpoint": "TNZ2RTCM31",
@@ -2351,7 +2373,7 @@
     "city": "TengizRTCM3.1",
     "provider": "Geokurs",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325389"
+    "last_checked": "2025-07-05T09:53:34.936088"
   },
   {
     "mountpoint": "TNZ2RTCM32",
@@ -2362,7 +2384,7 @@
     "city": "TengizRTCM3.2",
     "provider": "Geokurs",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325393"
+    "last_checked": "2025-07-05T09:53:34.936092"
   },
   {
     "mountpoint": "TRKSCMRP",
@@ -2373,7 +2395,7 @@
     "city": "TurkestanCMR+",
     "provider": "Geokurs",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325397"
+    "last_checked": "2025-07-05T09:53:34.936096"
   },
   {
     "mountpoint": "TRKSRTCM32",
@@ -2384,7 +2406,7 @@
     "city": "TurkestanRTCM3.2",
     "provider": "Geokurs",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325401"
+    "last_checked": "2025-07-05T09:53:34.936101"
   },
   {
     "mountpoint": "URLSCMRP",
@@ -2395,7 +2417,7 @@
     "city": "UralskCMR+",
     "provider": "Geokurs",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325406"
+    "last_checked": "2025-07-05T09:53:34.936106"
   },
   {
     "mountpoint": "URLSCMRX",
@@ -2406,7 +2428,7 @@
     "city": "UralskCMRx",
     "provider": "Geokurs",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325415"
+    "last_checked": "2025-07-05T09:53:34.936110"
   },
   {
     "mountpoint": "URLSRTCM31",
@@ -2417,7 +2439,7 @@
     "city": "UralskRTCM3.1",
     "provider": "Geokurs",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325422"
+    "last_checked": "2025-07-05T09:53:34.936114"
   },
   {
     "mountpoint": "URLSRTCM32",
@@ -2428,7 +2450,7 @@
     "city": "UralskRTCM3.2",
     "provider": "Geokurs",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325427"
+    "last_checked": "2025-07-05T09:53:34.936118"
   },
   {
     "mountpoint": "USTKCMRP",
@@ -2439,7 +2461,7 @@
     "city": "OskemenCMR+",
     "provider": "Geokurs",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325431"
+    "last_checked": "2025-07-05T09:53:34.936141"
   },
   {
     "mountpoint": "USTKCMRX",
@@ -2450,7 +2472,7 @@
     "city": "OskemenCMRx",
     "provider": "Geokurs",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325434"
+    "last_checked": "2025-07-05T09:53:34.936149"
   },
   {
     "mountpoint": "USTKRTCM2",
@@ -2461,7 +2483,7 @@
     "city": "OskemenRTCM2.3",
     "provider": "Geokurs",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325438"
+    "last_checked": "2025-07-05T09:53:34.936158"
   },
   {
     "mountpoint": "USTKRTCM31",
@@ -2472,7 +2494,7 @@
     "city": "OskemenRTCM3.1",
     "provider": "Geokurs",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325442"
+    "last_checked": "2025-07-05T09:53:34.936169"
   },
   {
     "mountpoint": "USTKRTCM32",
@@ -2483,7 +2505,7 @@
     "city": "OskemenRTCM3.2",
     "provider": "Geokurs",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325446"
+    "last_checked": "2025-07-05T09:53:34.936177"
   },
   {
     "mountpoint": "UZUNCMRP",
@@ -2494,7 +2516,7 @@
     "city": "UzunagashCMR+",
     "provider": "Geokurs",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325451"
+    "last_checked": "2025-07-05T09:53:34.936181"
   },
   {
     "mountpoint": "UZUNRTCM32",
@@ -2505,7 +2527,7 @@
     "city": "UzunagashRTCM3.2",
     "provider": "Geokurs",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325456"
+    "last_checked": "2025-07-05T09:53:34.936185"
   },
   {
     "mountpoint": "LSKVCMRP",
@@ -2516,7 +2538,7 @@
     "city": "LisakovskCMR+",
     "provider": "Geokurs",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325459"
+    "last_checked": "2025-07-05T09:53:34.936189"
   },
   {
     "mountpoint": "LSKVCMRX",
@@ -2527,7 +2549,7 @@
     "city": "LisakovskCMRx",
     "provider": "Geokurs",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325463"
+    "last_checked": "2025-07-05T09:53:34.936194"
   },
   {
     "mountpoint": "LSKVRTCM32",
@@ -2538,7 +2560,7 @@
     "city": "LisakovskRTCM3.2",
     "provider": "Geokurs",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325467"
+    "last_checked": "2025-07-05T09:53:34.936199"
   },
   {
     "mountpoint": "LSKVRTCM31",
@@ -2549,7 +2571,7 @@
     "city": "LisakovskRTCM3.1",
     "provider": "Geokurs",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325472"
+    "last_checked": "2025-07-05T09:53:34.936203"
   },
   {
     "mountpoint": "ZHNZCMRX",
@@ -2560,7 +2582,7 @@
     "city": "ZhanaOzenCMRx",
     "provider": "Geokurs",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325476"
+    "last_checked": "2025-07-05T09:53:34.936207"
   },
   {
     "mountpoint": "ZHNZRTCM31",
@@ -2571,7 +2593,7 @@
     "city": "ZhanaOzenRTCM31",
     "provider": "Geokurs",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325480"
+    "last_checked": "2025-07-05T09:53:34.936212"
   },
   {
     "mountpoint": "ZHNZRTCM32",
@@ -2582,7 +2604,7 @@
     "city": "ZhanaOzenRTCM32",
     "provider": "Geokurs",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325484"
+    "last_checked": "2025-07-05T09:53:34.936216"
   },
   {
     "mountpoint": "ZHTKCMRP",
@@ -2593,7 +2615,7 @@
     "city": "ZhetikaraCMRP",
     "provider": "Geokurs",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325492"
+    "last_checked": "2025-07-05T09:53:34.936220"
   },
   {
     "mountpoint": "ZHTKCMRX",
@@ -2604,7 +2626,7 @@
     "city": "ZhetikaraCMRX",
     "provider": "Geokurs",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325501"
+    "last_checked": "2025-07-05T09:53:34.936224"
   },
   {
     "mountpoint": "ZHTKRTCM31",
@@ -2615,7 +2637,7 @@
     "city": "Zhetikara3.1",
     "provider": "Geokurs",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325505"
+    "last_checked": "2025-07-05T09:53:34.936228"
   },
   {
     "mountpoint": "KNDGCMRP",
@@ -2626,7 +2648,7 @@
     "city": "KandyagashCMR+",
     "provider": "Geokurs",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325509"
+    "last_checked": "2025-07-05T09:53:34.936232"
   },
   {
     "mountpoint": "KNDGCMRX",
@@ -2637,7 +2659,7 @@
     "city": "KandyagashCMRx",
     "provider": "Geokurs",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325512"
+    "last_checked": "2025-07-05T09:53:34.936235"
   },
   {
     "mountpoint": "KNDGRTCM31",
@@ -2648,7 +2670,7 @@
     "city": "KandyagashRTCM3.1",
     "provider": "Geokurs",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325517"
+    "last_checked": "2025-07-05T09:53:34.936239"
   },
   {
     "mountpoint": "KNDGRTCM32",
@@ -2659,7 +2681,18 @@
     "city": "KandyagashRTCM3.2",
     "provider": "Geokurs",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325521"
+    "last_checked": "2025-07-05T09:53:34.936243"
+  },
+  {
+    "mountpoint": null,
+    "format": null,
+    "gnss": null,
+    "latitude": null,
+    "longitude": null,
+    "city": "",
+    "provider": null,
+    "status": "Online",
+    "last_checked": "2025-07-05T09:53:34.936247"
   },
   {
     "mountpoint": "[RTCM3X-MSM]",
@@ -2670,7 +2703,7 @@
     "city": "[RTCM3X-MSM]",
     "provider": "South",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325525"
+    "last_checked": "2025-07-05T09:53:34.936255"
   },
   {
     "mountpoint": "OZEN_MSM4",
@@ -2681,7 +2714,7 @@
     "city": "OZEN_MSM4",
     "provider": "South",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325529"
+    "last_checked": "2025-07-05T09:53:34.936259"
   },
   {
     "mountpoint": "JANAKORGAN",
@@ -2692,7 +2725,7 @@
     "city": "JANAKORGAN",
     "provider": "South",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325535"
+    "last_checked": "2025-07-05T09:53:34.936263"
   },
   {
     "mountpoint": "PETROPAVLOSK_QAZTRF",
@@ -2703,7 +2736,7 @@
     "city": "PETROPAVLOSK_QAZTRF",
     "provider": "South",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325539"
+    "last_checked": "2025-07-05T09:53:34.936267"
   },
   {
     "mountpoint": "ZHEZ_NBDS3",
@@ -2714,7 +2747,7 @@
     "city": "ZHEZ_NBDS3",
     "provider": "South",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325543"
+    "last_checked": "2025-07-05T09:53:34.936271"
   },
   {
     "mountpoint": "ULKEN",
@@ -2725,7 +2758,7 @@
     "city": "ULKEN",
     "provider": "South",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325546"
+    "last_checked": "2025-07-05T09:53:34.936275"
   },
   {
     "mountpoint": "ATBASAR_QAZTRF",
@@ -2736,7 +2769,7 @@
     "city": "ATBASAR_QAZTRF",
     "provider": "South",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325550"
+    "last_checked": "2025-07-05T09:53:34.936281"
   },
   {
     "mountpoint": "KHROMTAU",
@@ -2747,7 +2780,7 @@
     "city": "KHROMTAU",
     "provider": "South",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325554"
+    "last_checked": "2025-07-05T09:53:34.936300"
   },
   {
     "mountpoint": "FORTSHEVCHENKO",
@@ -2758,7 +2791,7 @@
     "city": "FORTSHEVCHENKO",
     "provider": "South",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325558"
+    "last_checked": "2025-07-05T09:53:34.936310"
   },
   {
     "mountpoint": "ALMA_NBDS3",
@@ -2769,7 +2802,7 @@
     "city": "ALMA_NBDS3",
     "provider": "South",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325605"
+    "last_checked": "2025-07-05T09:53:34.936316"
   },
   {
     "mountpoint": "BEYNEU",
@@ -2780,7 +2813,7 @@
     "city": "BEYNEU",
     "provider": "South",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325617"
+    "last_checked": "2025-07-05T09:53:34.936321"
   },
   {
     "mountpoint": "ALMA_MSM4",
@@ -2791,7 +2824,7 @@
     "city": "ALMA_MSM4",
     "provider": "South",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325626"
+    "last_checked": "2025-07-05T09:53:34.936325"
   },
   {
     "mountpoint": "KULSARY",
@@ -2802,7 +2835,7 @@
     "city": "KULSARY",
     "provider": "South",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325631"
+    "last_checked": "2025-07-05T09:53:34.936329"
   },
   {
     "mountpoint": "KSTA_MSM4",
@@ -2813,7 +2846,7 @@
     "city": "KSTA_MSM4",
     "provider": "South",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325636"
+    "last_checked": "2025-07-05T09:53:34.936333"
   },
   {
     "mountpoint": "OZEN",
@@ -2824,7 +2857,7 @@
     "city": "OZEN",
     "provider": "South",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325640"
+    "last_checked": "2025-07-05T09:53:34.936337"
   },
   {
     "mountpoint": "ZHEZKAZGAN",
@@ -2835,7 +2868,7 @@
     "city": "ZHEZKAZGAN",
     "provider": "South",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325644"
+    "last_checked": "2025-07-05T09:53:34.936341"
   },
   {
     "mountpoint": "BEYN_MSM4",
@@ -2846,7 +2879,7 @@
     "city": "BEYN_MSM4",
     "provider": "South",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325648"
+    "last_checked": "2025-07-05T09:53:34.936346"
   },
   {
     "mountpoint": "BALQASH",
@@ -2857,7 +2890,7 @@
     "city": "BALQASH",
     "provider": "South",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325652"
+    "last_checked": "2025-07-05T09:53:34.936350"
   },
   {
     "mountpoint": "SEMEY",
@@ -2868,7 +2901,7 @@
     "city": "SEMEY",
     "provider": "South",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325659"
+    "last_checked": "2025-07-05T09:53:34.936353"
   },
   {
     "mountpoint": "TURKESTAN",
@@ -2879,7 +2912,7 @@
     "city": "TURKESTAN",
     "provider": "South",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325667"
+    "last_checked": "2025-07-05T09:53:34.936357"
   },
   {
     "mountpoint": "OSKM_MSM4",
@@ -2890,7 +2923,7 @@
     "city": "OSKM_MSM4",
     "provider": "South",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325675"
+    "last_checked": "2025-07-05T09:53:34.936361"
   },
   {
     "mountpoint": "URSK_NBDS3",
@@ -2901,7 +2934,7 @@
     "city": "URSK_NBDS3",
     "provider": "South",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325683"
+    "last_checked": "2025-07-05T09:53:34.936365"
   },
   {
     "mountpoint": "NURSULTAN",
@@ -2912,7 +2945,7 @@
     "city": "NURSULTAN",
     "provider": "South",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325690"
+    "last_checked": "2025-07-05T09:53:34.936369"
   },
   {
     "mountpoint": "TARAZ",
@@ -2923,7 +2956,7 @@
     "city": "TARAZ",
     "provider": "South",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325697"
+    "last_checked": "2025-07-05T09:53:34.936373"
   },
   {
     "mountpoint": "ULKN_MSM4",
@@ -2934,7 +2967,7 @@
     "city": "ULKN_MSM4",
     "provider": "South",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325702"
+    "last_checked": "2025-07-05T09:53:34.936378"
   },
   {
     "mountpoint": "KARAGANDA",
@@ -2945,7 +2978,7 @@
     "city": "KARAGANDA",
     "provider": "South",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325706"
+    "last_checked": "2025-07-05T09:53:34.936383"
   },
   {
     "mountpoint": "PETR_MSM4",
@@ -2956,7 +2989,7 @@
     "city": "PETR_MSM4",
     "provider": "South",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325712"
+    "last_checked": "2025-07-05T09:53:34.936387"
   },
   {
     "mountpoint": "KULS_MSM4",
@@ -2967,7 +3000,7 @@
     "city": "KULS_MSM4",
     "provider": "South",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325716"
+    "last_checked": "2025-07-05T09:53:34.936391"
   },
   {
     "mountpoint": "TARZ_NBDS3",
@@ -2978,7 +3011,7 @@
     "city": "TARZ_NBDS3",
     "provider": "South",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325721"
+    "last_checked": "2025-07-05T09:53:34.936395"
   },
   {
     "mountpoint": "OSKM_NBDS3",
@@ -2989,7 +3022,7 @@
     "city": "OSKM_NBDS3",
     "provider": "South",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325729"
+    "last_checked": "2025-07-05T09:53:34.936399"
   },
   {
     "mountpoint": "SHELEK",
@@ -3000,7 +3033,7 @@
     "city": "SHELEK",
     "provider": "South",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325746"
+    "last_checked": "2025-07-05T09:53:34.936403"
   },
   {
     "mountpoint": "AKTAU",
@@ -3011,7 +3044,7 @@
     "city": "AKTAU",
     "provider": "South",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325750"
+    "last_checked": "2025-07-05T09:53:34.936407"
   },
   {
     "mountpoint": "AKTU_MSM4",
@@ -3022,7 +3055,7 @@
     "city": "AKTU_MSM4",
     "provider": "South",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325754"
+    "last_checked": "2025-07-05T09:53:34.936412"
   },
   {
     "mountpoint": "KRTN_MSM4",
@@ -3033,7 +3066,7 @@
     "city": "KRTN_MSM4",
     "provider": "South",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325758"
+    "last_checked": "2025-07-05T09:53:34.936416"
   },
   {
     "mountpoint": "CHIL_MSM4",
@@ -3044,7 +3077,7 @@
     "city": "CHIL_MSM4",
     "provider": "South",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325763"
+    "last_checked": "2025-07-05T09:53:34.936419"
   },
   {
     "mountpoint": "JARKENT",
@@ -3055,7 +3088,7 @@
     "city": "JARKENT",
     "provider": "South",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325767"
+    "last_checked": "2025-07-05T09:53:34.936423"
   },
   {
     "mountpoint": "JETYSAI",
@@ -3066,7 +3099,7 @@
     "city": "JETYSAI",
     "provider": "South",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325771"
+    "last_checked": "2025-07-05T09:53:34.936427"
   },
   {
     "mountpoint": "PAVLODAR_QAZTRF",
@@ -3077,7 +3110,7 @@
     "city": "PAVLODAR_QAZTRF",
     "provider": "South",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325775"
+    "last_checked": "2025-07-05T09:53:34.936431"
   },
   {
     "mountpoint": "TARZ_MSM4",
@@ -3088,7 +3121,7 @@
     "city": "TARZ_MSM4",
     "provider": "South",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325779"
+    "last_checked": "2025-07-05T09:53:34.936435"
   },
   {
     "mountpoint": "JAKT_MSM4",
@@ -3099,7 +3132,7 @@
     "city": "JAKT_MSM4",
     "provider": "South",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325783"
+    "last_checked": "2025-07-05T09:53:34.936439"
   },
   {
     "mountpoint": "NURN_NBDS3",
@@ -3110,7 +3143,7 @@
     "city": "NURN_NBDS3",
     "provider": "South",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325787"
+    "last_checked": "2025-07-05T09:53:34.936444"
   },
   {
     "mountpoint": "KZLD_NBDS3",
@@ -3121,7 +3154,7 @@
     "city": "KZLD_NBDS3",
     "provider": "South",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325791"
+    "last_checked": "2025-07-05T09:53:34.936448"
   },
   {
     "mountpoint": "JAKT_NBDS3",
@@ -3132,7 +3165,7 @@
     "city": "JAKT_NBDS3",
     "provider": "South",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325800"
+    "last_checked": "2025-07-05T09:53:34.936452"
   },
   {
     "mountpoint": "SHYM_MSM4",
@@ -3143,7 +3176,7 @@
     "city": "SHYM_MSM4",
     "provider": "South",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325804"
+    "last_checked": "2025-07-05T09:53:34.936456"
   },
   {
     "mountpoint": "FABRICHNIY_QAZTRF",
@@ -3154,7 +3187,7 @@
     "city": "FABRICHNIY_QAZTRF",
     "provider": "South",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325808"
+    "last_checked": "2025-07-05T09:53:34.936460"
   },
   {
     "mountpoint": "BEYN_NBDS3",
@@ -3165,7 +3198,7 @@
     "city": "BEYN_NBDS3",
     "provider": "South",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325812"
+    "last_checked": "2025-07-05T09:53:34.936465"
   },
   {
     "mountpoint": "TDKG_NBDS3",
@@ -3176,7 +3209,7 @@
     "city": "TDKG_NBDS3",
     "provider": "South",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325816"
+    "last_checked": "2025-07-05T09:53:34.936469"
   },
   {
     "mountpoint": "KZLD_MSM4",
@@ -3187,7 +3220,7 @@
     "city": "KZLD_MSM4",
     "provider": "South",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325820"
+    "last_checked": "2025-07-05T09:53:34.936473"
   },
   {
     "mountpoint": "AREZ_NBDS3",
@@ -3198,7 +3231,7 @@
     "city": "AREZ_NBDS3",
     "provider": "South",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325824"
+    "last_checked": "2025-07-05T09:53:34.936478"
   },
   {
     "mountpoint": "URALSK",
@@ -3209,7 +3242,7 @@
     "city": "URALSK",
     "provider": "South",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325828"
+    "last_checked": "2025-07-05T09:53:34.936482"
   },
   {
     "mountpoint": "STEPNOGORSK_QAZTRF",
@@ -3220,7 +3253,7 @@
     "city": "STEPNOGORSK_QAZTRF",
     "provider": "South",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325832"
+    "last_checked": "2025-07-05T09:53:34.936486"
   },
   {
     "mountpoint": "ALAKOL",
@@ -3231,7 +3264,7 @@
     "city": "ALAKOL",
     "provider": "South",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325837"
+    "last_checked": "2025-07-05T09:53:34.936489"
   },
   {
     "mountpoint": "ALAK_NBDS3",
@@ -3242,7 +3275,7 @@
     "city": "ALAK_NBDS3",
     "provider": "South",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325844"
+    "last_checked": "2025-07-05T09:53:34.936502"
   },
   {
     "mountpoint": "KSTA_NBDS3",
@@ -3253,7 +3286,7 @@
     "city": "KSTA_NBDS3",
     "provider": "South",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325851"
+    "last_checked": "2025-07-05T09:53:34.936506"
   },
   {
     "mountpoint": "ALMATY_QAZTRF",
@@ -3264,7 +3297,7 @@
     "city": "ALMATY_QAZTRF",
     "provider": "South",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325859"
+    "last_checked": "2025-07-05T09:53:34.936510"
   },
   {
     "mountpoint": "ATBS_NBDS3",
@@ -3275,7 +3308,7 @@
     "city": "ATBS_NBDS3",
     "provider": "South",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325866"
+    "last_checked": "2025-07-05T09:53:34.936515"
   },
   {
     "mountpoint": "CHUNDZHA",
@@ -3286,7 +3319,7 @@
     "city": "CHUNDZHA",
     "provider": "South",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325875"
+    "last_checked": "2025-07-05T09:53:34.936519"
   },
   {
     "mountpoint": "BALQ_NBDS3",
@@ -3297,7 +3330,7 @@
     "city": "BALQ_NBDS3",
     "provider": "South",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325882"
+    "last_checked": "2025-07-05T09:53:34.936524"
   },
   {
     "mountpoint": "AREZ_MSM4",
@@ -3308,7 +3341,7 @@
     "city": "AREZ_MSM4",
     "provider": "South",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325889"
+    "last_checked": "2025-07-05T09:53:34.936528"
   },
   {
     "mountpoint": "7MEY_MSM4",
@@ -3319,7 +3352,7 @@
     "city": "7MEY_MSM4",
     "provider": "South",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325899"
+    "last_checked": "2025-07-05T09:53:34.936532"
   },
   {
     "mountpoint": "NURN_MSM4",
@@ -3330,7 +3363,7 @@
     "city": "NURN_MSM4",
     "provider": "South",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325907"
+    "last_checked": "2025-07-05T09:53:34.936536"
   },
   {
     "mountpoint": "KOKSHETAU_QAZTRF",
@@ -3341,7 +3374,7 @@
     "city": "KOKSHETAU_QAZTRF",
     "provider": "South",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325913"
+    "last_checked": "2025-07-05T09:53:34.936540"
   },
   {
     "mountpoint": "TURK_MSM4",
@@ -3352,7 +3385,7 @@
     "city": "TURK_MSM4",
     "provider": "South",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325917"
+    "last_checked": "2025-07-05T09:53:34.936544"
   },
   {
     "mountpoint": "KGAI_NBDS3",
@@ -3363,7 +3396,7 @@
     "city": "KGAI_NBDS3",
     "provider": "South",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325921"
+    "last_checked": "2025-07-05T09:53:34.936548"
   },
   {
     "mountpoint": "OZEN_NBDS3",
@@ -3374,7 +3407,7 @@
     "city": "OZEN_NBDS3",
     "provider": "South",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325925"
+    "last_checked": "2025-07-05T09:53:34.936553"
   },
   {
     "mountpoint": "FABR_NBDS3",
@@ -3385,7 +3418,7 @@
     "city": "FABR_NBDS3",
     "provider": "South",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325929"
+    "last_checked": "2025-07-05T09:53:34.936559"
   },
   {
     "mountpoint": "SHYM_NBDS3",
@@ -3396,7 +3429,7 @@
     "city": "SHYM_NBDS3",
     "provider": "South",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325932"
+    "last_checked": "2025-07-05T09:53:34.936563"
   },
   {
     "mountpoint": "AKTOBE",
@@ -3407,7 +3440,7 @@
     "city": "AKTOBE",
     "provider": "South",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325941"
+    "last_checked": "2025-07-05T09:53:34.936579"
   },
   {
     "mountpoint": "KOSTANAY_QAZTRF",
@@ -3418,7 +3451,7 @@
     "city": "KOSTANAY_QAZTRF",
     "provider": "South",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325945"
+    "last_checked": "2025-07-05T09:53:34.936583"
   },
   {
     "mountpoint": "CHUN_MSM4",
@@ -3429,7 +3462,7 @@
     "city": "CHUN_MSM4",
     "provider": "South",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325963"
+    "last_checked": "2025-07-05T09:53:34.936590"
   },
   {
     "mountpoint": "KARATURUN",
@@ -3440,7 +3473,7 @@
     "city": "KARATURUN",
     "provider": "South",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325967"
+    "last_checked": "2025-07-05T09:53:34.936597"
   },
   {
     "mountpoint": "PVLD_NBDS3",
@@ -3451,7 +3484,7 @@
     "city": "PVLD_NBDS3",
     "provider": "South",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325971"
+    "last_checked": "2025-07-05T09:53:34.936605"
   },
   {
     "mountpoint": "KULS_NBDS3",
@@ -3462,7 +3495,7 @@
     "city": "KULS_NBDS3",
     "provider": "South",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325975"
+    "last_checked": "2025-07-05T09:53:34.936611"
   },
   {
     "mountpoint": "KGAI_MSM4",
@@ -3473,7 +3506,7 @@
     "city": "KGAI_MSM4",
     "provider": "South",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325979"
+    "last_checked": "2025-07-05T09:53:34.936623"
   },
   {
     "mountpoint": "FABR_MSM4",
@@ -3484,7 +3517,7 @@
     "city": "FABR_MSM4",
     "provider": "South",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325983"
+    "last_checked": "2025-07-05T09:53:34.936632"
   },
   {
     "mountpoint": "FORT_NBDS3",
@@ -3495,7 +3528,7 @@
     "city": "FORT_NBDS3",
     "provider": "South",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325988"
+    "last_checked": "2025-07-05T09:53:34.936639"
   },
   {
     "mountpoint": "ESIK_MSM4",
@@ -3506,7 +3539,7 @@
     "city": "ESIK_MSM4",
     "provider": "South",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325992"
+    "last_checked": "2025-07-05T09:53:34.936647"
   },
   {
     "mountpoint": "ESIK_NBDS3",
@@ -3517,7 +3550,7 @@
     "city": "ESIK_NBDS3",
     "provider": "South",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.325996"
+    "last_checked": "2025-07-05T09:53:34.936655"
   },
   {
     "mountpoint": "ATBS_MSM4",
@@ -3528,7 +3561,7 @@
     "city": "ATBS_MSM4",
     "provider": "South",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326000"
+    "last_checked": "2025-07-05T09:53:34.936663"
   },
   {
     "mountpoint": "JQOR_NBDS3",
@@ -3539,7 +3572,7 @@
     "city": "JQOR_NBDS3",
     "provider": "South",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326003"
+    "last_checked": "2025-07-05T09:53:34.936671"
   },
   {
     "mountpoint": "URSK_MSM4",
@@ -3550,7 +3583,7 @@
     "city": "URSK_MSM4",
     "provider": "South",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326007"
+    "last_checked": "2025-07-05T09:53:34.936678"
   },
   {
     "mountpoint": "HROM_MSM4",
@@ -3561,7 +3594,7 @@
     "city": "HROM_MSM4",
     "provider": "South",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326011"
+    "last_checked": "2025-07-05T09:53:34.936689"
   },
   {
     "mountpoint": "AYAGOZ",
@@ -3572,7 +3605,7 @@
     "city": "AYAGOZ",
     "provider": "South",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326017"
+    "last_checked": "2025-07-05T09:53:34.936694"
   },
   {
     "mountpoint": "CHUN_NBDS3",
@@ -3583,7 +3616,7 @@
     "city": "CHUN_NBDS3",
     "provider": "South",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326027"
+    "last_checked": "2025-07-05T09:53:34.936698"
   },
   {
     "mountpoint": "KRGD_NBDS3",
@@ -3594,7 +3627,7 @@
     "city": "KRGD_NBDS3",
     "provider": "South",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326034"
+    "last_checked": "2025-07-05T09:53:34.936703"
   },
   {
     "mountpoint": "ATYRAU2",
@@ -3605,7 +3638,7 @@
     "city": "ATYRAU2",
     "provider": "South",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326047"
+    "last_checked": "2025-07-05T09:53:34.936707"
   },
   {
     "mountpoint": "HROM_NBDS3",
@@ -3616,7 +3649,7 @@
     "city": "HROM_NBDS3",
     "provider": "South",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326056"
+    "last_checked": "2025-07-05T09:53:34.936715"
   },
   {
     "mountpoint": "KRGD_MSM4",
@@ -3627,7 +3660,7 @@
     "city": "KRGD_MSM4",
     "provider": "South",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326067"
+    "last_checked": "2025-07-05T09:53:34.936724"
   },
   {
     "mountpoint": "QAZTRF_KAPSHAGAI",
@@ -3638,7 +3671,7 @@
     "city": "QAZTRF_KAPSHAGAI",
     "provider": "South",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326072"
+    "last_checked": "2025-07-05T09:53:34.936728"
   },
   {
     "mountpoint": "ALAK_MSM4",
@@ -3649,7 +3682,7 @@
     "city": "ALAK_MSM4",
     "provider": "South",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326076"
+    "last_checked": "2025-07-05T09:53:34.936733"
   },
   {
     "mountpoint": "ATR2_NBDS3",
@@ -3660,7 +3693,7 @@
     "city": "ATR2_NBDS3",
     "provider": "South",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326080"
+    "last_checked": "2025-07-05T09:53:34.936738"
   },
   {
     "mountpoint": "KYZYLORDA",
@@ -3671,7 +3704,7 @@
     "city": "KYZYLORDA",
     "provider": "South",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326085"
+    "last_checked": "2025-07-05T09:53:34.936741"
   },
   {
     "mountpoint": "PETR_NBDS3",
@@ -3682,7 +3715,7 @@
     "city": "PETR_NBDS3",
     "provider": "South",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326089"
+    "last_checked": "2025-07-05T09:53:34.936745"
   },
   {
     "mountpoint": "AYGZ_MSM4",
@@ -3693,7 +3726,7 @@
     "city": "AYGZ_MSM4",
     "provider": "South",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326092"
+    "last_checked": "2025-07-05T09:53:34.936749"
   },
   {
     "mountpoint": "AYGZ_NBDS3",
@@ -3704,7 +3737,7 @@
     "city": "AYGZ_NBDS3",
     "provider": "South",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326096"
+    "last_checked": "2025-07-05T09:53:34.936753"
   },
   {
     "mountpoint": "7MEY_NBDS3",
@@ -3715,7 +3748,7 @@
     "city": "7MEY_NBDS3",
     "provider": "South",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326100"
+    "last_checked": "2025-07-05T09:53:34.936757"
   },
   {
     "mountpoint": "OSKEMEN",
@@ -3726,7 +3759,7 @@
     "city": "OSKEMEN",
     "provider": "South",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326104"
+    "last_checked": "2025-07-05T09:53:34.936761"
   },
   {
     "mountpoint": "STEP_MSM4",
@@ -3737,7 +3770,7 @@
     "city": "STEP_MSM4",
     "provider": "South",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326108"
+    "last_checked": "2025-07-05T09:53:34.936766"
   },
   {
     "mountpoint": "ATR2_MSM4",
@@ -3748,7 +3781,7 @@
     "city": "ATR2_MSM4",
     "provider": "South",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326112"
+    "last_checked": "2025-07-05T09:53:34.936770"
   },
   {
     "mountpoint": "PVLD_MSM4",
@@ -3759,7 +3792,7 @@
     "city": "PVLD_MSM4",
     "provider": "South",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326116"
+    "last_checked": "2025-07-05T09:53:34.936773"
   },
   {
     "mountpoint": "JQOR_MSM4",
@@ -3770,7 +3803,7 @@
     "city": "JQOR_MSM4",
     "provider": "South",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326120"
+    "last_checked": "2025-07-05T09:53:34.936777"
   },
   {
     "mountpoint": "KTAU_MSM4",
@@ -3781,7 +3814,7 @@
     "city": "KTAU_MSM4",
     "provider": "South",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326124"
+    "last_checked": "2025-07-05T09:53:34.936781"
   },
   {
     "mountpoint": "BALQ_MSM4",
@@ -3792,7 +3825,7 @@
     "city": "BALQ_MSM4",
     "provider": "South",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326128"
+    "last_checked": "2025-07-05T09:53:34.936786"
   },
   {
     "mountpoint": "TURK_NBDS3",
@@ -3803,7 +3836,7 @@
     "city": "TURK_NBDS3",
     "provider": "South",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326133"
+    "last_checked": "2025-07-05T09:53:34.936791"
   },
   {
     "mountpoint": "JETS_NBDS3",
@@ -3814,7 +3847,7 @@
     "city": "JETS_NBDS3",
     "provider": "South",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326137"
+    "last_checked": "2025-07-05T09:53:34.936795"
   },
   {
     "mountpoint": "FORT_MSM4",
@@ -3825,7 +3858,7 @@
     "city": "FORT_MSM4",
     "provider": "South",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326141"
+    "last_checked": "2025-07-05T09:53:34.936800"
   },
   {
     "mountpoint": "SHYMKENT",
@@ -3836,7 +3869,7 @@
     "city": "SHYMKENT",
     "provider": "South",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326146"
+    "last_checked": "2025-07-05T09:53:34.936804"
   },
   {
     "mountpoint": "STEP_NBDS3",
@@ -3847,7 +3880,7 @@
     "city": "STEP_NBDS3",
     "provider": "South",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326151"
+    "last_checked": "2025-07-05T09:53:34.936808"
   },
   {
     "mountpoint": "JETS_MSM4",
@@ -3858,7 +3891,7 @@
     "city": "JETS_MSM4",
     "provider": "South",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326155"
+    "last_checked": "2025-07-05T09:53:34.936812"
   },
   {
     "mountpoint": "ULKN_NBDS3",
@@ -3869,7 +3902,7 @@
     "city": "ULKN_NBDS3",
     "provider": "South",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326158"
+    "last_checked": "2025-07-05T09:53:34.936816"
   },
   {
     "mountpoint": "KRTN_NBDS3",
@@ -3880,7 +3913,7 @@
     "city": "KRTN_NBDS3",
     "provider": "South",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326162"
+    "last_checked": "2025-07-05T09:53:34.936820"
   },
   {
     "mountpoint": "TDKG_MSM4",
@@ -3891,7 +3924,7 @@
     "city": "TDKG_MSM4",
     "provider": "South",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326166"
+    "last_checked": "2025-07-05T09:53:34.936824"
   },
   {
     "mountpoint": "ZHEZ_MSM4",
@@ -3902,7 +3935,7 @@
     "city": "ZHEZ_MSM4",
     "provider": "South",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326170"
+    "last_checked": "2025-07-05T09:53:34.936828"
   },
   {
     "mountpoint": "KTAU_NBDS3",
@@ -3913,7 +3946,7 @@
     "city": "KTAU_NBDS3",
     "provider": "South",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326174"
+    "last_checked": "2025-07-05T09:53:34.936833"
   },
   {
     "mountpoint": "ESIK",
@@ -3924,7 +3957,7 @@
     "city": "ESIK",
     "provider": "South",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326178"
+    "last_checked": "2025-07-05T09:53:34.936837"
   },
   {
     "mountpoint": "AKTU_NBDS3",
@@ -3935,7 +3968,7 @@
     "city": "AKTU_NBDS3",
     "provider": "South",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326183"
+    "last_checked": "2025-07-05T09:53:34.936840"
   },
   {
     "mountpoint": "EKIBASTUZ_QAZTRF",
@@ -3946,7 +3979,18 @@
     "city": "EKIBASTUZ_QAZTRF",
     "provider": "South",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326186"
+    "last_checked": "2025-07-05T09:53:34.936844"
+  },
+  {
+    "mountpoint": null,
+    "format": null,
+    "gnss": null,
+    "latitude": null,
+    "longitude": null,
+    "city": "",
+    "provider": null,
+    "status": "Online",
+    "last_checked": "2025-07-05T09:53:34.936848"
   },
   {
     "mountpoint": "ZhakynStanciyasy",
@@ -3957,7 +4001,7 @@
     "city": "ZhakynStanciyasy",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326190"
+    "last_checked": "2025-07-05T09:53:34.936853"
   },
   {
     "mountpoint": "TalshikRTCM",
@@ -3968,7 +4012,7 @@
     "city": "TalshikRTCM",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326194"
+    "last_checked": "2025-07-05T09:53:34.936857"
   },
   {
     "mountpoint": "KokshetauRTCM",
@@ -3979,7 +4023,7 @@
     "city": "KokshetauRTCM",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326198"
+    "last_checked": "2025-07-05T09:53:34.936861"
   },
   {
     "mountpoint": "ZhitikaraRTCM",
@@ -3990,7 +4034,7 @@
     "city": "ZhitikaraRTCM",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326202"
+    "last_checked": "2025-07-05T09:53:34.936864"
   },
   {
     "mountpoint": "KarabalykRTCM",
@@ -4001,7 +4045,7 @@
     "city": "KarabalykRTCM",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326206"
+    "last_checked": "2025-07-05T09:53:34.936868"
   },
   {
     "mountpoint": "EkibastuzRTCM",
@@ -4012,7 +4056,7 @@
     "city": "EkibastuzRTCM",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326209"
+    "last_checked": "2025-07-05T09:53:34.936874"
   },
   {
     "mountpoint": "SatpaevRTCM",
@@ -4023,7 +4067,7 @@
     "city": "SatpaevRTCM",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326213"
+    "last_checked": "2025-07-05T09:53:34.936878"
   },
   {
     "mountpoint": "UshtobeRTCM",
@@ -4034,7 +4078,7 @@
     "city": "UshtobeRTCM",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326218"
+    "last_checked": "2025-07-05T09:53:34.936882"
   },
   {
     "mountpoint": "KegenRTCM",
@@ -4045,7 +4089,7 @@
     "city": "KegenRTCM",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326221"
+    "last_checked": "2025-07-05T09:53:34.936886"
   },
   {
     "mountpoint": "SaryozekRTCM",
@@ -4056,7 +4100,7 @@
     "city": "SaryozekRTCM",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326226"
+    "last_checked": "2025-07-05T09:53:34.936889"
   },
   {
     "mountpoint": "EmbaRTCM",
@@ -4067,7 +4111,7 @@
     "city": "EmbaRTCM",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326230"
+    "last_checked": "2025-07-05T09:53:34.936893"
   },
   {
     "mountpoint": "ShalkarRTCM",
@@ -4078,7 +4122,7 @@
     "city": "ShalkarRTCM",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326233"
+    "last_checked": "2025-07-05T09:53:34.936910"
   },
   {
     "mountpoint": "BozoiRTCM",
@@ -4089,7 +4133,7 @@
     "city": "BozoiRTCM",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326237"
+    "last_checked": "2025-07-05T09:53:34.936915"
   },
   {
     "mountpoint": "YrgyzRTCM",
@@ -4100,7 +4144,7 @@
     "city": "YrgyzRTCM",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326241"
+    "last_checked": "2025-07-05T09:53:34.936920"
   },
   {
     "mountpoint": "ChapayevoRTCM",
@@ -4111,7 +4155,7 @@
     "city": "ChapayevoRTCM",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326257"
+    "last_checked": "2025-07-05T09:53:34.936924"
   },
   {
     "mountpoint": "AksaiRTCM",
@@ -4122,7 +4166,7 @@
     "city": "AksaiRTCM",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326263"
+    "last_checked": "2025-07-05T09:53:34.936927"
   },
   {
     "mountpoint": "ZhanakalaRTCM",
@@ -4133,7 +4177,7 @@
     "city": "ZhanakalaRTCM",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326266"
+    "last_checked": "2025-07-05T09:53:34.936931"
   },
   {
     "mountpoint": "TarazRTCM",
@@ -4144,7 +4188,7 @@
     "city": "TarazRTCM",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326270"
+    "last_checked": "2025-07-05T09:53:34.936935"
   },
   {
     "mountpoint": "ShuRTCM",
@@ -4155,7 +4199,7 @@
     "city": "ShuRTCM",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326274"
+    "last_checked": "2025-07-05T09:53:34.936938"
   },
   {
     "mountpoint": "KarazhalRTCM",
@@ -4166,7 +4210,7 @@
     "city": "KarazhalRTCM",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326277"
+    "last_checked": "2025-07-05T09:53:34.936946"
   },
   {
     "mountpoint": "KarkaralyRTCM",
@@ -4177,7 +4221,7 @@
     "city": "KarkaralyRTCM",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326281"
+    "last_checked": "2025-07-05T09:53:34.936954"
   },
   {
     "mountpoint": "BestobeRTCM",
@@ -4188,7 +4232,7 @@
     "city": "BestobeRTCM",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326285"
+    "last_checked": "2025-07-05T09:53:34.937022"
   },
   {
     "mountpoint": "SharbaktyRTCM",
@@ -4199,7 +4243,7 @@
     "city": "SharbaktyRTCM",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326289"
+    "last_checked": "2025-07-05T09:53:34.937031"
   },
   {
     "mountpoint": "SemeyRTCM",
@@ -4210,7 +4254,7 @@
     "city": "SemeyRTCM",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326293"
+    "last_checked": "2025-07-05T09:53:34.937036"
   },
   {
     "mountpoint": "ZaysanRTCM",
@@ -4221,7 +4265,7 @@
     "city": "ZaysanRTCM",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326297"
+    "last_checked": "2025-07-05T09:53:34.937040"
   },
   {
     "mountpoint": "KokpektyRTCM",
@@ -4232,7 +4276,7 @@
     "city": "KokpektyRTCM",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326345"
+    "last_checked": "2025-07-05T09:53:34.937044"
   },
   {
     "mountpoint": "AksuatRTCM",
@@ -4243,7 +4287,7 @@
     "city": "AksuatRTCM",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326360"
+    "last_checked": "2025-07-05T09:53:34.937047"
   },
   {
     "mountpoint": "GanyushkinoRTCM",
@@ -4254,7 +4298,7 @@
     "city": "GanyushkinoRTCM",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326365"
+    "last_checked": "2025-07-05T09:53:34.937051"
   },
   {
     "mountpoint": "TurkestanRTCM",
@@ -4265,7 +4309,7 @@
     "city": "TurkestanRTCM",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326369"
+    "last_checked": "2025-07-05T09:53:34.937060"
   },
   {
     "mountpoint": "ZhanakorganRTCM",
@@ -4276,7 +4320,7 @@
     "city": "ZhanakorganRTCM",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326373"
+    "last_checked": "2025-07-05T09:53:34.937064"
   },
   {
     "mountpoint": "Kyzylorda",
@@ -4287,7 +4331,7 @@
     "city": "Kyzylorda",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326377"
+    "last_checked": "2025-07-05T09:53:34.937068"
   },
   {
     "mountpoint": "ZhetisayRTCM",
@@ -4298,7 +4342,7 @@
     "city": "ZhetisayRTCM",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326380"
+    "last_checked": "2025-07-05T09:53:34.937072"
   },
   {
     "mountpoint": "UstkamanRTCM",
@@ -4309,7 +4353,7 @@
     "city": "UstkamanRTCM",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326385"
+    "last_checked": "2025-07-05T09:53:34.937076"
   },
   {
     "mountpoint": "AlmatyRTCM",
@@ -4320,7 +4364,7 @@
     "city": "AlmatyRTCM",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326392"
+    "last_checked": "2025-07-05T09:53:34.937082"
   },
   {
     "mountpoint": "ZhanatasRTCM",
@@ -4331,7 +4375,7 @@
     "city": "ZhanatasRTCM",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326399"
+    "last_checked": "2025-07-05T09:53:34.937086"
   },
   {
     "mountpoint": "AtbasarRTCM",
@@ -4342,7 +4386,7 @@
     "city": "AtbasarRTCM",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326406"
+    "last_checked": "2025-07-05T09:53:34.937090"
   },
   {
     "mountpoint": "FortshevchenkoRTCM",
@@ -4353,7 +4397,7 @@
     "city": "FortshevchenkoRTCM",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326413"
+    "last_checked": "2025-07-05T09:53:34.937094"
   },
   {
     "mountpoint": "ZhanaozenRTCM",
@@ -4364,7 +4408,7 @@
     "city": "ZhanaozenRTCM",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326424"
+    "last_checked": "2025-07-05T09:53:34.937097"
   },
   {
     "mountpoint": "SayakRTCM",
@@ -4375,7 +4419,7 @@
     "city": "SayakRTCM",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326428"
+    "last_checked": "2025-07-05T09:53:34.937101"
   },
   {
     "mountpoint": "ShymkentRTCM",
@@ -4386,7 +4430,7 @@
     "city": "ShymkentRTCM",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326432"
+    "last_checked": "2025-07-05T09:53:34.937110"
   },
   {
     "mountpoint": "AktobeRTCM",
@@ -4397,7 +4441,7 @@
     "city": "AktobeRTCM",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326436"
+    "last_checked": "2025-07-05T09:53:34.937118"
   },
   {
     "mountpoint": "AksaiCMR",
@@ -4408,7 +4452,7 @@
     "city": "AksaiCMR",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326442"
+    "last_checked": "2025-07-05T09:53:34.937125"
   },
   {
     "mountpoint": "AksaiLeica",
@@ -4419,7 +4463,7 @@
     "city": "AksaiLeica",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326446"
+    "last_checked": "2025-07-05T09:53:34.937141"
   },
   {
     "mountpoint": "AksuatCMR",
@@ -4430,7 +4474,7 @@
     "city": "AksuatCMR",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326450"
+    "last_checked": "2025-07-05T09:53:34.937148"
   },
   {
     "mountpoint": "AksuatLeica",
@@ -4441,7 +4485,7 @@
     "city": "AksuatLeica",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326454"
+    "last_checked": "2025-07-05T09:53:34.937152"
   },
   {
     "mountpoint": "ZhanaturmysRTCM",
@@ -4452,7 +4496,7 @@
     "city": "ZhanaturmysRTCM",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326458"
+    "last_checked": "2025-07-05T09:53:34.937155"
   },
   {
     "mountpoint": "AktobeCMR",
@@ -4463,7 +4507,7 @@
     "city": "AktobeCMR",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326461"
+    "last_checked": "2025-07-05T09:53:34.937159"
   },
   {
     "mountpoint": "AktobeLeica",
@@ -4474,7 +4518,7 @@
     "city": "AktobeLeica",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326465"
+    "last_checked": "2025-07-05T09:53:34.937166"
   },
   {
     "mountpoint": "AlmatyCMR",
@@ -4485,7 +4529,7 @@
     "city": "AlmatyCMR",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326469"
+    "last_checked": "2025-07-05T09:53:34.937170"
   },
   {
     "mountpoint": "AtbasarCMR",
@@ -4496,7 +4540,7 @@
     "city": "AtbasarCMR",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326473"
+    "last_checked": "2025-07-05T09:53:34.937174"
   },
   {
     "mountpoint": "AtbasarLeica",
@@ -4507,7 +4551,7 @@
     "city": "AtbasarLeica",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326477"
+    "last_checked": "2025-07-05T09:53:34.937178"
   },
   {
     "mountpoint": "BestobeCMR",
@@ -4518,7 +4562,7 @@
     "city": "BestobeCMR",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326481"
+    "last_checked": "2025-07-05T09:53:34.937182"
   },
   {
     "mountpoint": "BestobeLeica",
@@ -4529,7 +4573,7 @@
     "city": "BestobeLeica",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326484"
+    "last_checked": "2025-07-05T09:53:34.937185"
   },
   {
     "mountpoint": "BozoiCMR",
@@ -4540,7 +4584,7 @@
     "city": "BozoiCMR",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326488"
+    "last_checked": "2025-07-05T09:53:34.937189"
   },
   {
     "mountpoint": "BozoiLeica",
@@ -4551,7 +4595,7 @@
     "city": "BozoiLeica",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326492"
+    "last_checked": "2025-07-05T09:53:34.937193"
   },
   {
     "mountpoint": "ChapayevoCMR",
@@ -4562,7 +4606,7 @@
     "city": "ChapayevoCMR",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326495"
+    "last_checked": "2025-07-05T09:53:34.937202"
   },
   {
     "mountpoint": "ChapayevoLeica",
@@ -4573,7 +4617,7 @@
     "city": "ChapayevoLeica",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326499"
+    "last_checked": "2025-07-05T09:53:34.937209"
   },
   {
     "mountpoint": "EkibastuzCMR",
@@ -4584,7 +4628,7 @@
     "city": "EkibastuzCMR",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326504"
+    "last_checked": "2025-07-05T09:53:34.937216"
   },
   {
     "mountpoint": "EkibastuzLeica",
@@ -4595,7 +4639,7 @@
     "city": "EkibastuzLeica",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326508"
+    "last_checked": "2025-07-05T09:53:34.937222"
   },
   {
     "mountpoint": "EmbaCMR",
@@ -4606,7 +4650,7 @@
     "city": "EmbaCMR",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326512"
+    "last_checked": "2025-07-05T09:53:34.937230"
   },
   {
     "mountpoint": "EmbaLeica",
@@ -4617,7 +4661,7 @@
     "city": "EmbaLeica",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326515"
+    "last_checked": "2025-07-05T09:53:34.937238"
   },
   {
     "mountpoint": "FortshevchenkoCMR",
@@ -4628,7 +4672,7 @@
     "city": "FortshevchenkoCMR",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326519"
+    "last_checked": "2025-07-05T09:53:34.937245"
   },
   {
     "mountpoint": "FortshevchenkoLeica",
@@ -4639,7 +4683,7 @@
     "city": "FortshevchenkoLeica",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326523"
+    "last_checked": "2025-07-05T09:53:34.937253"
   },
   {
     "mountpoint": "GanyushkinoLeica",
@@ -4650,7 +4694,7 @@
     "city": "GanyushkinoLeica",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326527"
+    "last_checked": "2025-07-05T09:53:34.937257"
   },
   {
     "mountpoint": "GanyushkinoCMR",
@@ -4661,7 +4705,7 @@
     "city": "GanyushkinoCMR",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326530"
+    "last_checked": "2025-07-05T09:53:34.937261"
   },
   {
     "mountpoint": "KarabalykCMR",
@@ -4672,7 +4716,7 @@
     "city": "KarabalykCMR",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326537"
+    "last_checked": "2025-07-05T09:53:34.937267"
   },
   {
     "mountpoint": "KarabalykLeica",
@@ -4683,7 +4727,7 @@
     "city": "KarabalykLeica",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326545"
+    "last_checked": "2025-07-05T09:53:34.937274"
   },
   {
     "mountpoint": "KarazhalCMR",
@@ -4694,7 +4738,7 @@
     "city": "KarazhalCMR",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326552"
+    "last_checked": "2025-07-05T09:53:34.937278"
   },
   {
     "mountpoint": "KarazhalLeica",
@@ -4705,7 +4749,7 @@
     "city": "KarazhalLeica",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326555"
+    "last_checked": "2025-07-05T09:53:34.937282"
   },
   {
     "mountpoint": "KarkaralyCMR",
@@ -4716,7 +4760,7 @@
     "city": "KarkaralyCMR",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326559"
+    "last_checked": "2025-07-05T09:53:34.937286"
   },
   {
     "mountpoint": "KarkaralyLeica",
@@ -4727,7 +4771,7 @@
     "city": "KarkaralyLeica",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326579"
+    "last_checked": "2025-07-05T09:53:34.937290"
   },
   {
     "mountpoint": "KegenCMR",
@@ -4738,7 +4782,7 @@
     "city": "KegenCMR",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326583"
+    "last_checked": "2025-07-05T09:53:34.937294"
   },
   {
     "mountpoint": "KegenLeica",
@@ -4749,7 +4793,7 @@
     "city": "KegenLeica",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326587"
+    "last_checked": "2025-07-05T09:53:34.937302"
   },
   {
     "mountpoint": "KokpektyCMR",
@@ -4760,7 +4804,7 @@
     "city": "KokpektyCMR",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326591"
+    "last_checked": "2025-07-05T09:53:34.937321"
   },
   {
     "mountpoint": "KokpektyLeica",
@@ -4771,7 +4815,7 @@
     "city": "KokpektyLeica",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326597"
+    "last_checked": "2025-07-05T09:53:34.937329"
   },
   {
     "mountpoint": "KokshetauCMR",
@@ -4782,7 +4826,7 @@
     "city": "KokshetauCMR",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326600"
+    "last_checked": "2025-07-05T09:53:34.937336"
   },
   {
     "mountpoint": "KokshetauLeica",
@@ -4793,7 +4837,7 @@
     "city": "KokshetauLeica",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326605"
+    "last_checked": "2025-07-05T09:53:34.937343"
   },
   {
     "mountpoint": "KyzylordaCMR",
@@ -4804,7 +4848,7 @@
     "city": "KyzylordaCMR",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326609"
+    "last_checked": "2025-07-05T09:53:34.937349"
   },
   {
     "mountpoint": "KyzylordaLeica",
@@ -4815,7 +4859,7 @@
     "city": "KyzylordaLeica",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326613"
+    "last_checked": "2025-07-05T09:53:34.937353"
   },
   {
     "mountpoint": "SaryozekCMR",
@@ -4826,7 +4870,7 @@
     "city": "SaryozekCMR",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326616"
+    "last_checked": "2025-07-05T09:53:34.937357"
   },
   {
     "mountpoint": "SaryozekLeica",
@@ -4837,7 +4881,7 @@
     "city": "SaryozekLeica",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326622"
+    "last_checked": "2025-07-05T09:53:34.937363"
   },
   {
     "mountpoint": "SatpaevCMR",
@@ -4848,7 +4892,7 @@
     "city": "SatpaevCMR",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326630"
+    "last_checked": "2025-07-05T09:53:34.937367"
   },
   {
     "mountpoint": "SatpaevLeica",
@@ -4859,7 +4903,7 @@
     "city": "SatpaevLeica",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326637"
+    "last_checked": "2025-07-05T09:53:34.937370"
   },
   {
     "mountpoint": "SayakLeica",
@@ -4870,7 +4914,7 @@
     "city": "SayakLeica",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326641"
+    "last_checked": "2025-07-05T09:53:34.937374"
   },
   {
     "mountpoint": "SayakCMR",
@@ -4881,7 +4925,7 @@
     "city": "SayakCMR",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326645"
+    "last_checked": "2025-07-05T09:53:34.937378"
   },
   {
     "mountpoint": "SemeyCMR",
@@ -4892,7 +4936,7 @@
     "city": "SemeyCMR",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326649"
+    "last_checked": "2025-07-05T09:53:34.937382"
   },
   {
     "mountpoint": "SemeyLeica",
@@ -4903,7 +4947,7 @@
     "city": "SemeyLeica",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326652"
+    "last_checked": "2025-07-05T09:53:34.937385"
   },
   {
     "mountpoint": "ShalkarCMR",
@@ -4914,7 +4958,7 @@
     "city": "ShalkarCMR",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326656"
+    "last_checked": "2025-07-05T09:53:34.937389"
   },
   {
     "mountpoint": "ShalkarLeica",
@@ -4925,7 +4969,7 @@
     "city": "ShalkarLeica",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326660"
+    "last_checked": "2025-07-05T09:53:34.937410"
   },
   {
     "mountpoint": "KaztalovkaRTCM",
@@ -4936,7 +4980,7 @@
     "city": "KaztalovkaRTCM",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326664"
+    "last_checked": "2025-07-05T09:53:34.937414"
   },
   {
     "mountpoint": "KaztalovkaCMR",
@@ -4947,7 +4991,7 @@
     "city": "KaztalovkaCMR",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326683"
+    "last_checked": "2025-07-05T09:53:34.937418"
   },
   {
     "mountpoint": "BeyneuCMR",
@@ -4958,7 +5002,7 @@
     "city": "BeyneuCMR",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326687"
+    "last_checked": "2025-07-05T09:53:34.937423"
   },
   {
     "mountpoint": "BeyneuRTCM",
@@ -4969,7 +5013,7 @@
     "city": "BeyneuRTCM",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326691"
+    "last_checked": "2025-07-05T09:53:34.937428"
   },
   {
     "mountpoint": "BeyneuLeica",
@@ -4980,7 +5024,7 @@
     "city": "BeyneuLeica",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326695"
+    "last_checked": "2025-07-05T09:53:34.937432"
   },
   {
     "mountpoint": "InderborRTCM",
@@ -4991,7 +5035,7 @@
     "city": "InderborRTCM",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326699"
+    "last_checked": "2025-07-05T09:53:34.937436"
   },
   {
     "mountpoint": "InderborLeica",
@@ -5002,7 +5046,7 @@
     "city": "InderborLeica",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326705"
+    "last_checked": "2025-07-05T09:53:34.937440"
   },
   {
     "mountpoint": "InderborCMR",
@@ -5013,7 +5057,7 @@
     "city": "InderborCMR",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326715"
+    "last_checked": "2025-07-05T09:53:34.937445"
   },
   {
     "mountpoint": "AralskCMR",
@@ -5024,7 +5068,7 @@
     "city": "AralskCMR",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326721"
+    "last_checked": "2025-07-05T09:53:34.937449"
   },
   {
     "mountpoint": "AralskRTCM",
@@ -5035,7 +5079,7 @@
     "city": "AralskRTCM",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326726"
+    "last_checked": "2025-07-05T09:53:34.937452"
   },
   {
     "mountpoint": "AralskLeica",
@@ -5046,7 +5090,7 @@
     "city": "AralskLeica",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326730"
+    "last_checked": "2025-07-05T09:53:34.937456"
   },
   {
     "mountpoint": "EreimentauCMR",
@@ -5057,7 +5101,7 @@
     "city": "EreimentauCMR",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326734"
+    "last_checked": "2025-07-05T09:53:34.937460"
   },
   {
     "mountpoint": "EreimentauRTCM",
@@ -5068,7 +5112,7 @@
     "city": "EreimentauRTCM",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326737"
+    "last_checked": "2025-07-05T09:53:34.937464"
   },
   {
     "mountpoint": "EreimentauLeica",
@@ -5079,7 +5123,7 @@
     "city": "EreimentauLeica",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326741"
+    "last_checked": "2025-07-05T09:53:34.937467"
   },
   {
     "mountpoint": "KaratobeRTCM",
@@ -5090,7 +5134,7 @@
     "city": "KaratobeRTCM",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326745"
+    "last_checked": "2025-07-05T09:53:34.937471"
   },
   {
     "mountpoint": "KaratobeCMR",
@@ -5101,7 +5145,7 @@
     "city": "KaratobeCMR",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326749"
+    "last_checked": "2025-07-05T09:53:34.937476"
   },
   {
     "mountpoint": "KaratobeLeica",
@@ -5112,7 +5156,7 @@
     "city": "KaratobeLeica",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326752"
+    "last_checked": "2025-07-05T09:53:34.937480"
   },
   {
     "mountpoint": "SharbaktyCMR",
@@ -5123,7 +5167,7 @@
     "city": "SharbaktyCMR",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326757"
+    "last_checked": "2025-07-05T09:53:34.937484"
   },
   {
     "mountpoint": "SharbaktyLeica",
@@ -5134,7 +5178,7 @@
     "city": "SharbaktyLeica",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326761"
+    "last_checked": "2025-07-05T09:53:34.937488"
   },
   {
     "mountpoint": "ShuCMR",
@@ -5145,7 +5189,7 @@
     "city": "ShuCMR",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326764"
+    "last_checked": "2025-07-05T09:53:34.937491"
   },
   {
     "mountpoint": "ShuLeica",
@@ -5156,7 +5200,7 @@
     "city": "ShuLeica",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326768"
+    "last_checked": "2025-07-05T09:53:34.937495"
   },
   {
     "mountpoint": "ShymkentCMR",
@@ -5167,7 +5211,7 @@
     "city": "ShymkentCMR",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326772"
+    "last_checked": "2025-07-05T09:53:34.937499"
   },
   {
     "mountpoint": "Shymkent_Leica",
@@ -5178,7 +5222,7 @@
     "city": "Shymkent_Leica",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326775"
+    "last_checked": "2025-07-05T09:53:34.937504"
   },
   {
     "mountpoint": "StepnoiRTCM",
@@ -5189,7 +5233,7 @@
     "city": "StepnoiRTCM",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326779"
+    "last_checked": "2025-07-05T09:53:34.937509"
   },
   {
     "mountpoint": "StepnoiCMR",
@@ -5200,7 +5244,7 @@
     "city": "StepnoiCMR",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326783"
+    "last_checked": "2025-07-05T09:53:34.937512"
   },
   {
     "mountpoint": "StepnoiLeica",
@@ -5211,7 +5255,7 @@
     "city": "StepnoiLeica",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326792"
+    "last_checked": "2025-07-05T09:53:34.937516"
   },
   {
     "mountpoint": "TalshikCMR",
@@ -5222,7 +5266,7 @@
     "city": "TalshikCMR",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326802"
+    "last_checked": "2025-07-05T09:53:34.937520"
   },
   {
     "mountpoint": "TalshikLeica",
@@ -5233,7 +5277,7 @@
     "city": "TalshikLeica",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326808"
+    "last_checked": "2025-07-05T09:53:34.937524"
   },
   {
     "mountpoint": "TarazCMR",
@@ -5244,7 +5288,7 @@
     "city": "TarazCMR",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326812"
+    "last_checked": "2025-07-05T09:53:34.937527"
   },
   {
     "mountpoint": "TarazLeica",
@@ -5255,7 +5299,7 @@
     "city": "TarazLeica",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326816"
+    "last_checked": "2025-07-05T09:53:34.937531"
   },
   {
     "mountpoint": "TorgaiRTCM",
@@ -5266,7 +5310,7 @@
     "city": "TorgaiRTCM",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326820"
+    "last_checked": "2025-07-05T09:53:34.937535"
   },
   {
     "mountpoint": "TorgaiCMR",
@@ -5277,7 +5321,7 @@
     "city": "TorgaiCMR",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326823"
+    "last_checked": "2025-07-05T09:53:34.937540"
   },
   {
     "mountpoint": "TorgaiLeica",
@@ -5288,7 +5332,7 @@
     "city": "TorgaiLeica",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326827"
+    "last_checked": "2025-07-05T09:53:34.937543"
   },
   {
     "mountpoint": "TurkestanCMR",
@@ -5299,7 +5343,7 @@
     "city": "TurkestanCMR",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326832"
+    "last_checked": "2025-07-05T09:53:34.937547"
   },
   {
     "mountpoint": "TurkestanLeica",
@@ -5310,7 +5354,7 @@
     "city": "TurkestanLeica",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326836"
+    "last_checked": "2025-07-05T09:53:34.937551"
   },
   {
     "mountpoint": "UlanbelCMR",
@@ -5321,7 +5365,7 @@
     "city": "UlanbelCMR",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326840"
+    "last_checked": "2025-07-05T09:53:34.937554"
   },
   {
     "mountpoint": "UlanbelRTCM",
@@ -5332,7 +5376,7 @@
     "city": "UlanbelRTCM",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326843"
+    "last_checked": "2025-07-05T09:53:34.937558"
   },
   {
     "mountpoint": "UlanbelLeica",
@@ -5343,7 +5387,7 @@
     "city": "UlanbelLeica",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326847"
+    "last_checked": "2025-07-05T09:53:34.937562"
   },
   {
     "mountpoint": "UshtobeCMR",
@@ -5354,7 +5398,7 @@
     "city": "UshtobeCMR",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326851"
+    "last_checked": "2025-07-05T09:53:34.937565"
   },
   {
     "mountpoint": "UshtobeLeica",
@@ -5365,7 +5409,7 @@
     "city": "UshtobeLeica",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326854"
+    "last_checked": "2025-07-05T09:53:34.937570"
   },
   {
     "mountpoint": "UstkamanCMR",
@@ -5376,7 +5420,7 @@
     "city": "UstkamanCMR",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326858"
+    "last_checked": "2025-07-05T09:53:34.937574"
   },
   {
     "mountpoint": "UstkamanLeica",
@@ -5387,7 +5431,7 @@
     "city": "UstkamanLeica",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326863"
+    "last_checked": "2025-07-05T09:53:34.937578"
   },
   {
     "mountpoint": "YrgyzCMR",
@@ -5398,7 +5442,7 @@
     "city": "YrgyzCMR",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326867"
+    "last_checked": "2025-07-05T09:53:34.937583"
   },
   {
     "mountpoint": "YrgyzLeica",
@@ -5409,7 +5453,7 @@
     "city": "YrgyzLeica",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326884"
+    "last_checked": "2025-07-05T09:53:34.937587"
   },
   {
     "mountpoint": "ZaysanCMR",
@@ -5420,7 +5464,7 @@
     "city": "ZaysanCMR",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326889"
+    "last_checked": "2025-07-05T09:53:34.937591"
   },
   {
     "mountpoint": "ZaysanLeica",
@@ -5431,7 +5475,7 @@
     "city": "ZaysanLeica",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326892"
+    "last_checked": "2025-07-05T09:53:34.937595"
   },
   {
     "mountpoint": "ZhanakalaCMR",
@@ -5442,7 +5486,7 @@
     "city": "ZhanakalaCMR",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326899"
+    "last_checked": "2025-07-05T09:53:34.937598"
   },
   {
     "mountpoint": "ZhanakalaLeica",
@@ -5453,7 +5497,7 @@
     "city": "ZhanakalaLeica",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326903"
+    "last_checked": "2025-07-05T09:53:34.937604"
   },
   {
     "mountpoint": "ZhanakorganCMR",
@@ -5464,7 +5508,7 @@
     "city": "ZhanakorganCMR",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326907"
+    "last_checked": "2025-07-05T09:53:34.937608"
   },
   {
     "mountpoint": "ZhanakorganLeica",
@@ -5475,7 +5519,7 @@
     "city": "ZhanakorganLeica",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326914"
+    "last_checked": "2025-07-05T09:53:34.937612"
   },
   {
     "mountpoint": "ZhanaozenCMR",
@@ -5486,7 +5530,7 @@
     "city": "ZhanaozenCMR",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326918"
+    "last_checked": "2025-07-05T09:53:34.937616"
   },
   {
     "mountpoint": "ZhanaozenLeica",
@@ -5497,7 +5541,7 @@
     "city": "ZhanaozenLeica",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326922"
+    "last_checked": "2025-07-05T09:53:34.937620"
   },
   {
     "mountpoint": "ZhanatasCMR",
@@ -5508,7 +5552,7 @@
     "city": "ZhanatasCMR",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326925"
+    "last_checked": "2025-07-05T09:53:34.937625"
   },
   {
     "mountpoint": "ZhanatasLeica",
@@ -5519,7 +5563,7 @@
     "city": "ZhanatasLeica",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326929"
+    "last_checked": "2025-07-05T09:53:34.937629"
   },
   {
     "mountpoint": "ZhanaturmysCMR",
@@ -5530,7 +5574,7 @@
     "city": "ZhanaturmysCMR",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326934"
+    "last_checked": "2025-07-05T09:53:34.937632"
   },
   {
     "mountpoint": "ZhanaturmysLeica",
@@ -5541,7 +5585,7 @@
     "city": "ZhanaturmysLeica",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326938"
+    "last_checked": "2025-07-05T09:53:34.937637"
   },
   {
     "mountpoint": "Zhetisay_CMR",
@@ -5552,7 +5596,7 @@
     "city": "Zhetisay_CMR",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326942"
+    "last_checked": "2025-07-05T09:53:34.937641"
   },
   {
     "mountpoint": "Zhetisay_Leica",
@@ -5563,7 +5607,7 @@
     "city": "Zhetisay_Leica",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326946"
+    "last_checked": "2025-07-05T09:53:34.937646"
   },
   {
     "mountpoint": "Zhitikara_CMR",
@@ -5574,7 +5618,7 @@
     "city": "Zhitikara_CMR",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326950"
+    "last_checked": "2025-07-05T09:53:34.937649"
   },
   {
     "mountpoint": "Zhitikara_Leica",
@@ -5585,7 +5629,7 @@
     "city": "Zhitikara_Leica",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326955"
+    "last_checked": "2025-07-05T09:53:34.937653"
   },
   {
     "mountpoint": "ZhirenkopaRTCM",
@@ -5596,7 +5640,7 @@
     "city": "ZhirenkopaRTCM",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326962"
+    "last_checked": "2025-07-05T09:53:34.937657"
   },
   {
     "mountpoint": "ZhirenkopaCMR",
@@ -5607,7 +5651,7 @@
     "city": "ZhirenkopaCMR",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326969"
+    "last_checked": "2025-07-05T09:53:34.937662"
   },
   {
     "mountpoint": "ZhirenkopaLeica",
@@ -5618,7 +5662,7 @@
     "city": "ZhirenkopaLeica",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326976"
+    "last_checked": "2025-07-05T09:53:34.937666"
   },
   {
     "mountpoint": "KaragandaRTCM",
@@ -5629,7 +5673,7 @@
     "city": "KaragandaRTCM",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326982"
+    "last_checked": "2025-07-05T09:53:34.937671"
   },
   {
     "mountpoint": "KaragandaCMR",
@@ -5640,7 +5684,7 @@
     "city": "KaragandaCMR",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326986"
+    "last_checked": "2025-07-05T09:53:34.937675"
   },
   {
     "mountpoint": "KaragandaLeica",
@@ -5651,7 +5695,7 @@
     "city": "KaragandaLeica",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326993"
+    "last_checked": "2025-07-05T09:53:34.937678"
   },
   {
     "mountpoint": "ShashubayRTCM",
@@ -5662,7 +5706,7 @@
     "city": "ShashubayRTCM",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.326997"
+    "last_checked": "2025-07-05T09:53:34.937682"
   },
   {
     "mountpoint": "ShashubayLeica",
@@ -5673,7 +5717,7 @@
     "city": "ShashubayLeica",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.327000"
+    "last_checked": "2025-07-05T09:53:34.937686"
   },
   {
     "mountpoint": "ShashubayCMR",
@@ -5684,7 +5728,7 @@
     "city": "ShashubayCMR",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.327004"
+    "last_checked": "2025-07-05T09:53:34.937689"
   },
   {
     "mountpoint": "KaramendiCMR",
@@ -5695,7 +5739,7 @@
     "city": "KaramendiCMR",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.327008"
+    "last_checked": "2025-07-05T09:53:34.937693"
   },
   {
     "mountpoint": "KaramendiRTCM",
@@ -5706,7 +5750,7 @@
     "city": "KaramendiRTCM",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.327012"
+    "last_checked": "2025-07-05T09:53:34.937697"
   },
   {
     "mountpoint": "KaramendiLeica",
@@ -5717,7 +5761,7 @@
     "city": "KaramendiLeica",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.327015"
+    "last_checked": "2025-07-05T09:53:34.937702"
   },
   {
     "mountpoint": "AktogaiRTCM",
@@ -5728,7 +5772,7 @@
     "city": "AktogaiRTCM",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.327019"
+    "last_checked": "2025-07-05T09:53:34.937706"
   },
   {
     "mountpoint": "AtyrauRTCM",
@@ -5739,7 +5783,7 @@
     "city": "AtyrauRTCM",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.327024"
+    "last_checked": "2025-07-05T09:53:34.937710"
   },
   {
     "mountpoint": "AgadyrRTCM",
@@ -5750,7 +5794,7 @@
     "city": "AgadyrRTCM",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.327028"
+    "last_checked": "2025-07-05T09:53:34.937714"
   },
   {
     "mountpoint": "AgadyrLeica",
@@ -5761,7 +5805,7 @@
     "city": "AgadyrLeica",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.327032"
+    "last_checked": "2025-07-05T09:53:34.937717"
   },
   {
     "mountpoint": "AgadyrCMR",
@@ -5772,7 +5816,7 @@
     "city": "AgadyrCMR",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.327035"
+    "last_checked": "2025-07-05T09:53:34.937732"
   },
   {
     "mountpoint": "AyagozRTCM",
@@ -5783,7 +5827,7 @@
     "city": "AyagozRTCM",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.327039"
+    "last_checked": "2025-07-05T09:53:34.937736"
   },
   {
     "mountpoint": "AyagozLeica",
@@ -5794,7 +5838,7 @@
     "city": "AyagozLeica",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.327059"
+    "last_checked": "2025-07-05T09:53:34.937740"
   },
   {
     "mountpoint": "AyagozCMR",
@@ -5805,7 +5849,7 @@
     "city": "AyagozCMR",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.327063"
+    "last_checked": "2025-07-05T09:53:34.937745"
   },
   {
     "mountpoint": "AktogaiCMR",
@@ -5816,7 +5860,7 @@
     "city": "AktogaiCMR",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.327067"
+    "last_checked": "2025-07-05T09:53:34.937749"
   },
   {
     "mountpoint": "AlmatyLeica",
@@ -5827,7 +5871,7 @@
     "city": "AlmatyLeica",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.327072"
+    "last_checked": "2025-07-05T09:53:34.937758"
   },
   {
     "mountpoint": "AktauRTCM",
@@ -5838,7 +5882,7 @@
     "city": "AktauRTCM",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.327076"
+    "last_checked": "2025-07-05T09:53:34.937766"
   },
   {
     "mountpoint": "AktauCMR",
@@ -5849,7 +5893,7 @@
     "city": "AktauCMR",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.327079"
+    "last_checked": "2025-07-05T09:53:34.937770"
   },
   {
     "mountpoint": "AktauLeica",
@@ -5860,7 +5904,7 @@
     "city": "AktauLeica",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.327083"
+    "last_checked": "2025-07-05T09:53:34.937774"
   },
   {
     "mountpoint": "AktogaiLeica",
@@ -5871,7 +5915,7 @@
     "city": "AktogaiLeica",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.327088"
+    "last_checked": "2025-07-05T09:53:34.937778"
   },
   {
     "mountpoint": "ArkalykRTCM",
@@ -5882,7 +5926,7 @@
     "city": "ArkalykRTCM",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.327092"
+    "last_checked": "2025-07-05T09:53:34.937782"
   },
   {
     "mountpoint": "ArkalykCMR",
@@ -5893,7 +5937,7 @@
     "city": "ArkalykCMR",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.327095"
+    "last_checked": "2025-07-05T09:53:34.937787"
   },
   {
     "mountpoint": "ArkalykLeica",
@@ -5904,7 +5948,7 @@
     "city": "ArkalykLeica",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.327099"
+    "last_checked": "2025-07-05T09:53:34.937791"
   },
   {
     "mountpoint": "AtyrauCMR",
@@ -5915,7 +5959,7 @@
     "city": "AtyrauCMR",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.327104"
+    "last_checked": "2025-07-05T09:53:34.937795"
   },
   {
     "mountpoint": "AtyrauLeica",
@@ -5926,7 +5970,7 @@
     "city": "AtyrauLeica",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.327107"
+    "last_checked": "2025-07-05T09:53:34.937798"
   },
   {
     "mountpoint": "BarshynRTCM",
@@ -5937,7 +5981,7 @@
     "city": "BarshynRTCM",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.327111"
+    "last_checked": "2025-07-05T09:53:34.937802"
   },
   {
     "mountpoint": "BarshynCMR",
@@ -5948,7 +5992,7 @@
     "city": "BarshynCMR",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.327115"
+    "last_checked": "2025-07-05T09:53:34.937806"
   },
   {
     "mountpoint": "BarshynLeica",
@@ -5959,7 +6003,7 @@
     "city": "BarshynLeica",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.327118"
+    "last_checked": "2025-07-05T09:53:34.937809"
   },
   {
     "mountpoint": "BayanaulLeica",
@@ -5970,7 +6014,7 @@
     "city": "BayanaulLeica",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.327122"
+    "last_checked": "2025-07-05T09:53:34.937813"
   },
   {
     "mountpoint": "BayanaulRTCM",
@@ -5981,7 +6025,7 @@
     "city": "BayanaulRTCM",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.327126"
+    "last_checked": "2025-07-05T09:53:34.937819"
   },
   {
     "mountpoint": "BayanaulCMR",
@@ -5992,7 +6036,7 @@
     "city": "BayanaulCMR",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.327131"
+    "last_checked": "2025-07-05T09:53:34.937822"
   },
   {
     "mountpoint": "BolashakRTCM",
@@ -6003,7 +6047,7 @@
     "city": "BolashakRTCM",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.327141"
+    "last_checked": "2025-07-05T09:53:34.937826"
   },
   {
     "mountpoint": "BolashakCMR",
@@ -6014,7 +6058,7 @@
     "city": "BolashakCMR",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.327149"
+    "last_checked": "2025-07-05T09:53:34.937830"
   },
   {
     "mountpoint": "BolashakLeica",
@@ -6025,7 +6069,7 @@
     "city": "BolashakLeica",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.327153"
+    "last_checked": "2025-07-05T09:53:34.937834"
   },
   {
     "mountpoint": "KaraaulCMR",
@@ -6036,7 +6080,7 @@
     "city": "KaraaulCMR",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.327157"
+    "last_checked": "2025-07-05T09:53:34.937840"
   },
   {
     "mountpoint": "KaraaulRTCM",
@@ -6047,7 +6091,7 @@
     "city": "KaraaulRTCM",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.327160"
+    "last_checked": "2025-07-05T09:53:34.937843"
   },
   {
     "mountpoint": "KaraaulLeica",
@@ -6058,7 +6102,7 @@
     "city": "KaraaulLeica",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.327165"
+    "last_checked": "2025-07-05T09:53:34.937847"
   },
   {
     "mountpoint": "KatonKaragayRTCM",
@@ -6069,7 +6113,7 @@
     "city": "KatonKaragayRTCM",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.327169"
+    "last_checked": "2025-07-05T09:53:34.937860"
   },
   {
     "mountpoint": "KatonKaragayCMR",
@@ -6080,7 +6124,7 @@
     "city": "KatonKaragayCMR",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.327174"
+    "last_checked": "2025-07-05T09:53:34.937864"
   },
   {
     "mountpoint": "KatonKaragayLeica",
@@ -6091,7 +6135,7 @@
     "city": "KatonKaragayLeica",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.327178"
+    "last_checked": "2025-07-05T09:53:34.937868"
   },
   {
     "mountpoint": "KaztalovkaLeica",
@@ -6102,7 +6146,7 @@
     "city": "KaztalovkaLeica",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.327183"
+    "last_checked": "2025-07-05T09:53:34.937871"
   },
   {
     "mountpoint": "KazalyRTCM",
@@ -6113,7 +6157,7 @@
     "city": "KazalyRTCM",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.327187"
+    "last_checked": "2025-07-05T09:53:34.937875"
   },
   {
     "mountpoint": "KazalyCMR",
@@ -6124,7 +6168,7 @@
     "city": "KazalyCMR",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.327190"
+    "last_checked": "2025-07-05T09:53:34.937879"
   },
   {
     "mountpoint": "KazalyLeica",
@@ -6135,7 +6179,7 @@
     "city": "KazalyLeica",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.327194"
+    "last_checked": "2025-07-05T09:53:34.937883"
   },
   {
     "mountpoint": "KomsomolskoeRTCM",
@@ -6146,7 +6190,7 @@
     "city": "KomsomolskoeRTCM",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.327198"
+    "last_checked": "2025-07-05T09:53:34.937887"
   },
   {
     "mountpoint": "KomsomolskoeCMR",
@@ -6157,7 +6201,7 @@
     "city": "KomsomolskoeCMR",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.327202"
+    "last_checked": "2025-07-05T09:53:34.937890"
   },
   {
     "mountpoint": "KomsomolskoeLeica",
@@ -6168,7 +6212,7 @@
     "city": "KomsomolskoeLeica",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.327205"
+    "last_checked": "2025-07-05T09:53:34.937896"
   },
   {
     "mountpoint": "KoskolRTCM",
@@ -6179,7 +6223,7 @@
     "city": "KoskolRTCM",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.327209"
+    "last_checked": "2025-07-05T09:53:34.937899"
   },
   {
     "mountpoint": "KoskolCMR",
@@ -6190,7 +6234,7 @@
     "city": "KoskolCMR",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.327214"
+    "last_checked": "2025-07-05T09:53:34.937903"
   },
   {
     "mountpoint": "KoskolLeica",
@@ -6201,7 +6245,7 @@
     "city": "KoskolLeica",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.327218"
+    "last_checked": "2025-07-05T09:53:34.937907"
   },
   {
     "mountpoint": "KostanaiRTCM",
@@ -6212,7 +6256,7 @@
     "city": "KostanaiRTCM",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.327221"
+    "last_checked": "2025-07-05T09:53:34.937911"
   },
   {
     "mountpoint": "KostanaiCMR",
@@ -6223,7 +6267,7 @@
     "city": "KostanaiCMR",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.327225"
+    "last_checked": "2025-07-05T09:53:34.937914"
   },
   {
     "mountpoint": "KostanaiLeica",
@@ -6234,7 +6278,7 @@
     "city": "KostanaiLeica",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.327229"
+    "last_checked": "2025-07-05T09:53:34.937918"
   },
   {
     "mountpoint": "KulsaryRTCM",
@@ -6245,7 +6289,7 @@
     "city": "KulsaryRTCM",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.327232"
+    "last_checked": "2025-07-05T09:53:34.937922"
   },
   {
     "mountpoint": "KulsaryCMR",
@@ -6256,7 +6300,7 @@
     "city": "KulsaryCMR",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.327236"
+    "last_checked": "2025-07-05T09:53:34.937930"
   },
   {
     "mountpoint": "KulsaryLeica",
@@ -6267,7 +6311,7 @@
     "city": "KulsaryLeica",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.327240"
+    "last_checked": "2025-07-05T09:53:34.937933"
   },
   {
     "mountpoint": "KyzanRTCM",
@@ -6278,7 +6322,7 @@
     "city": "KyzanRTCM",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.327246"
+    "last_checked": "2025-07-05T09:53:34.937937"
   },
   {
     "mountpoint": "KyzanCMR",
@@ -6289,7 +6333,7 @@
     "city": "KyzanCMR",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.327249"
+    "last_checked": "2025-07-05T09:53:34.937941"
   },
   {
     "mountpoint": "KyzanLeica",
@@ -6300,7 +6344,7 @@
     "city": "KyzanLeica",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.327254"
+    "last_checked": "2025-07-05T09:53:34.937945"
   },
   {
     "mountpoint": "MynaralRTCM",
@@ -6311,7 +6355,7 @@
     "city": "MynaralRTCM",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.327258"
+    "last_checked": "2025-07-05T09:53:34.937948"
   },
   {
     "mountpoint": "MynaralCMR",
@@ -6322,7 +6366,7 @@
     "city": "MynaralCMR",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.327262"
+    "last_checked": "2025-07-05T09:53:34.937952"
   },
   {
     "mountpoint": "MynaralLeica",
@@ -6333,7 +6377,7 @@
     "city": "MynaralLeica",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.327265"
+    "last_checked": "2025-07-05T09:53:34.937956"
   },
   {
     "mountpoint": "NovoishimkaRTCM",
@@ -6344,7 +6388,7 @@
     "city": "NovoishimkaRTCM",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.327269"
+    "last_checked": "2025-07-05T09:53:34.937961"
   },
   {
     "mountpoint": "NovoishimkaCMR",
@@ -6355,7 +6399,7 @@
     "city": "NovoishimkaCMR",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.327273"
+    "last_checked": "2025-07-05T09:53:34.937965"
   },
   {
     "mountpoint": "NovoishimkaLeica",
@@ -6366,7 +6410,7 @@
     "city": "NovoishimkaLeica",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.327278"
+    "last_checked": "2025-07-05T09:53:34.937968"
   },
   {
     "mountpoint": "PavlodarRTCM",
@@ -6377,7 +6421,7 @@
     "city": "PavlodarRTCM",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.327281"
+    "last_checked": "2025-07-05T09:53:34.937972"
   },
   {
     "mountpoint": "PavlodarCMR",
@@ -6388,7 +6432,7 @@
     "city": "PavlodarCMR",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.327285"
+    "last_checked": "2025-07-05T09:53:34.937976"
   },
   {
     "mountpoint": "PavlodarLeica",
@@ -6399,7 +6443,7 @@
     "city": "PavlodarLeica",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.327289"
+    "last_checked": "2025-07-05T09:53:34.937980"
   },
   {
     "mountpoint": "SagyzRTCM",
@@ -6410,7 +6454,7 @@
     "city": "SagyzRTCM",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.327293"
+    "last_checked": "2025-07-05T09:53:34.937983"
   },
   {
     "mountpoint": "SagyzCMR",
@@ -6421,7 +6465,7 @@
     "city": "SagyzCMR",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.327296"
+    "last_checked": "2025-07-05T09:53:34.937987"
   },
   {
     "mountpoint": "SagyzLeica",
@@ -6432,7 +6476,7 @@
     "city": "SagyzLeica",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.327300"
+    "last_checked": "2025-07-05T09:53:34.937992"
   },
   {
     "mountpoint": "SaikynRTCM",
@@ -6443,7 +6487,7 @@
     "city": "SaikynRTCM",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.327303"
+    "last_checked": "2025-07-05T09:53:34.937996"
   },
   {
     "mountpoint": "SaikynCMR",
@@ -6454,7 +6498,7 @@
     "city": "SaikynCMR",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.327308"
+    "last_checked": "2025-07-05T09:53:34.938000"
   },
   {
     "mountpoint": "SaikynLeica",
@@ -6465,7 +6509,7 @@
     "city": "SaikynLeica",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.327312"
+    "last_checked": "2025-07-05T09:53:34.938005"
   },
   {
     "mountpoint": "Talgar_RTCM",
@@ -6476,7 +6520,7 @@
     "city": "Talgar_RTCM",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.327316"
+    "last_checked": "2025-07-05T09:53:34.938008"
   },
   {
     "mountpoint": "Talgar_CMR",
@@ -6487,7 +6531,7 @@
     "city": "Talgar_CMR",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.327319"
+    "last_checked": "2025-07-05T09:53:34.938014"
   },
   {
     "mountpoint": "Talgar_Leica",
@@ -6498,7 +6542,7 @@
     "city": "Talgar_Leica",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.327323"
+    "last_checked": "2025-07-05T09:53:34.938017"
   },
   {
     "mountpoint": "UralskRTCM",
@@ -6509,7 +6553,7 @@
     "city": "UralskRTCM",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.327329"
+    "last_checked": "2025-07-05T09:53:34.938022"
   },
   {
     "mountpoint": "UralskCMR",
@@ -6520,7 +6564,7 @@
     "city": "UralskCMR",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.327332"
+    "last_checked": "2025-07-05T09:53:34.938027"
   },
   {
     "mountpoint": "UralskLeica",
@@ -6531,7 +6575,7 @@
     "city": "UralskLeica",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.327336"
+    "last_checked": "2025-07-05T09:53:34.938031"
   },
   {
     "mountpoint": "UsharalCMR",
@@ -6542,7 +6586,7 @@
     "city": "UsharalCMR",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.327341"
+    "last_checked": "2025-07-05T09:53:34.938035"
   },
   {
     "mountpoint": "UsharalLeica",
@@ -6553,7 +6597,7 @@
     "city": "UsharalLeica",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.327345"
+    "last_checked": "2025-07-05T09:53:34.938038"
   },
   {
     "mountpoint": "UzynkolRTCM",
@@ -6564,7 +6608,7 @@
     "city": "UzynkolRTCM",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.327349"
+    "last_checked": "2025-07-05T09:53:34.938042"
   },
   {
     "mountpoint": "UzynkolCMR",
@@ -6575,7 +6619,7 @@
     "city": "UzynkolCMR",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.327352"
+    "last_checked": "2025-07-05T09:53:34.938046"
   },
   {
     "mountpoint": "UzynkolLeica",
@@ -6586,7 +6630,7 @@
     "city": "UzynkolLeica",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.327356"
+    "last_checked": "2025-07-05T09:53:34.938049"
   },
   {
     "mountpoint": "ZharkamysRTCM",
@@ -6597,7 +6641,7 @@
     "city": "ZharkamysRTCM",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.327360"
+    "last_checked": "2025-07-05T09:53:34.938068"
   },
   {
     "mountpoint": "ZharkamysCMR",
@@ -6608,7 +6652,7 @@
     "city": "ZharkamysCMR",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.327363"
+    "last_checked": "2025-07-05T09:53:34.938073"
   },
   {
     "mountpoint": "ZharkamysLeica",
@@ -6619,7 +6663,7 @@
     "city": "ZharkamysLeica",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.327367"
+    "last_checked": "2025-07-05T09:53:34.938078"
   },
   {
     "mountpoint": "ZharkentRTCM",
@@ -6630,7 +6674,7 @@
     "city": "ZharkentRTCM",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.327381"
+    "last_checked": "2025-07-05T09:53:34.938086"
   },
   {
     "mountpoint": "ZharkentCMR",
@@ -6641,7 +6685,7 @@
     "city": "ZharkentCMR",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.327385"
+    "last_checked": "2025-07-05T09:53:34.938093"
   },
   {
     "mountpoint": "ZharkentLeica",
@@ -6652,7 +6696,7 @@
     "city": "ZharkentLeica",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.327389"
+    "last_checked": "2025-07-05T09:53:34.938100"
   },
   {
     "mountpoint": "ZhelezinkaRTCM",
@@ -6663,7 +6707,7 @@
     "city": "ZhelezinkaRTCM",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.327392"
+    "last_checked": "2025-07-05T09:53:34.938108"
   },
   {
     "mountpoint": "ZhelezinkaCMR",
@@ -6674,7 +6718,7 @@
     "city": "ZhelezinkaCMR",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.327396"
+    "last_checked": "2025-07-05T09:53:34.938115"
   },
   {
     "mountpoint": "ZhelezinkaLeica",
@@ -6685,7 +6729,7 @@
     "city": "ZhelezinkaLeica",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.327400"
+    "last_checked": "2025-07-05T09:53:34.938125"
   },
   {
     "mountpoint": "ZhosalyRTCM",
@@ -6696,7 +6740,7 @@
     "city": "ZhosalyRTCM",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.327404"
+    "last_checked": "2025-07-05T09:53:34.938154"
   },
   {
     "mountpoint": "ZhosalyCMR",
@@ -6707,7 +6751,7 @@
     "city": "ZhosalyCMR",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.327407"
+    "last_checked": "2025-07-05T09:53:34.938162"
   },
   {
     "mountpoint": "ZhosalyLeica",
@@ -6718,7 +6762,7 @@
     "city": "ZhosalyLeica",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.327412"
+    "last_checked": "2025-07-05T09:53:34.938166"
   },
   {
     "mountpoint": "UsharalRTCM",
@@ -6729,7 +6773,7 @@
     "city": "UsharalRTCM",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.327417"
+    "last_checked": "2025-07-05T09:53:34.938170"
   },
   {
     "mountpoint": "AstanaRTCM",
@@ -6740,7 +6784,7 @@
     "city": "AstanaRTCM",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.327430"
+    "last_checked": "2025-07-05T09:53:34.938174"
   },
   {
     "mountpoint": "AstanaCMR",
@@ -6751,7 +6795,7 @@
     "city": "AstanaCMR",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.327433"
+    "last_checked": "2025-07-05T09:53:34.938178"
   },
   {
     "mountpoint": "AstanaLeica",
@@ -6762,7 +6806,7 @@
     "city": "AstanaLeica",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.327437"
+    "last_checked": "2025-07-05T09:53:34.938182"
   },
   {
     "mountpoint": "BakanasCMR",
@@ -6773,7 +6817,7 @@
     "city": "BakanasCMR",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.327441"
+    "last_checked": "2025-07-05T09:53:34.938185"
   },
   {
     "mountpoint": "BakanasLeica",
@@ -6784,7 +6828,7 @@
     "city": "BakanasLeica",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.327444"
+    "last_checked": "2025-07-05T09:53:34.938191"
   },
   {
     "mountpoint": "BakanasRTCM",
@@ -6795,7 +6839,18 @@
     "city": "BakanasRTCM",
     "provider": "NCGPI",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.327448"
+    "last_checked": "2025-07-05T09:53:34.938195"
+  },
+  {
+    "mountpoint": null,
+    "format": null,
+    "gnss": null,
+    "latitude": null,
+    "longitude": null,
+    "city": "",
+    "provider": null,
+    "status": "Online",
+    "last_checked": "2025-07-05T09:53:34.938199"
   },
   {
     "mountpoint": "KRGDCMRP",
@@ -6806,7 +6861,7 @@
     "city": "Karaganda",
     "provider": "ZHASGEO",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.327454"
+    "last_checked": "2025-07-05T09:53:34.938204"
   },
   {
     "mountpoint": "KRGDCMRX",
@@ -6817,7 +6872,7 @@
     "city": "Karaganda",
     "provider": "ZHASGEO",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.327458"
+    "last_checked": "2025-07-05T09:53:34.938208"
   },
   {
     "mountpoint": "KRGDRTCM23",
@@ -6828,7 +6883,7 @@
     "city": "Karaganda",
     "provider": "ZHASGEO",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.327462"
+    "last_checked": "2025-07-05T09:53:34.938212"
   },
   {
     "mountpoint": "KRGDCMR",
@@ -6839,7 +6894,7 @@
     "city": "Karaganda",
     "provider": "ZHASGEO",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.327466"
+    "last_checked": "2025-07-05T09:53:34.938216"
   },
   {
     "mountpoint": "KRGDRTCM3",
@@ -6850,7 +6905,7 @@
     "city": "Karaganda",
     "provider": "ZHASGEO",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.327470"
+    "last_checked": "2025-07-05T09:53:34.938220"
   },
   {
     "mountpoint": "AstanaCMRP",
@@ -6861,7 +6916,7 @@
     "city": "Astana",
     "provider": "ZHASGEO",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.327474"
+    "last_checked": "2025-07-05T09:53:34.938226"
   },
   {
     "mountpoint": "AstanaCMRX",
@@ -6872,7 +6927,7 @@
     "city": "Astana",
     "provider": "ZHASGEO",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.327478"
+    "last_checked": "2025-07-05T09:53:34.938230"
   },
   {
     "mountpoint": "AstanaRTCM23",
@@ -6883,7 +6938,7 @@
     "city": "Astana",
     "provider": "ZHASGEO",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.327482"
+    "last_checked": "2025-07-05T09:53:34.938235"
   },
   {
     "mountpoint": "AstanaCMR",
@@ -6894,7 +6949,7 @@
     "city": "Astana",
     "provider": "ZHASGEO",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.327487"
+    "last_checked": "2025-07-05T09:53:34.938239"
   },
   {
     "mountpoint": "AstanaRTCM3",
@@ -6905,7 +6960,18 @@
     "city": "Astana",
     "provider": "ZHASGEO",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.327491"
+    "last_checked": "2025-07-05T09:53:34.938242"
+  },
+  {
+    "mountpoint": null,
+    "format": null,
+    "gnss": null,
+    "latitude": null,
+    "longitude": null,
+    "city": "",
+    "provider": null,
+    "status": "Online",
+    "last_checked": "2025-07-05T09:53:34.938246"
   },
   {
     "mountpoint": "KZ04",
@@ -6914,9 +6980,9 @@
     "latitude": "54.528018",
     "longitude": "68.686229",
     "city": "Novonikolskoe",
-    "provider": "PiDATA",
+    "provider": "PiData",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.327495"
+    "last_checked": "2025-07-05T09:53:34.938259"
   },
   {
     "mountpoint": "KZ05",
@@ -6925,9 +6991,9 @@
     "latitude": "49.904026",
     "longitude": "82.619802",
     "city": "Ust-Kamenogorsk",
-    "provider": "PiDATA",
+    "provider": "PiData",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.327499"
+    "last_checked": "2025-07-05T09:53:34.938263"
   },
   {
     "mountpoint": "KZ02",
@@ -6936,9 +7002,9 @@
     "latitude": "54.931904",
     "longitude": "69.13533",
     "city": "Petropavl",
-    "provider": "PiDATA",
+    "provider": "PiData",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.327503"
+    "last_checked": "2025-07-05T09:53:34.938267"
   },
   {
     "mountpoint": "KZ03",
@@ -6947,9 +7013,20 @@
     "latitude": "43.238565",
     "longitude": "76.843859",
     "city": "Almaty",
-    "provider": "PiDATA",
+    "provider": "PiData",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.327507"
+    "last_checked": "2025-07-05T09:53:34.938270"
+  },
+  {
+    "mountpoint": null,
+    "format": null,
+    "gnss": null,
+    "latitude": null,
+    "longitude": null,
+    "city": "",
+    "provider": null,
+    "status": "Online",
+    "last_checked": "2025-07-05T09:53:34.938274"
   },
   {
     "mountpoint": "ALMA",
@@ -6960,7 +7037,7 @@
     "city": "Alma_Aty",
     "provider": "EFT",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.327511"
+    "last_checked": "2025-07-05T09:53:34.938280"
   },
   {
     "mountpoint": "TDKG",
@@ -6971,7 +7048,7 @@
     "city": "Taldykorgan",
     "provider": "EFT",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.327515"
+    "last_checked": "2025-07-05T09:53:34.938284"
   },
   {
     "mountpoint": "TDKG3_2",
@@ -6982,7 +7059,7 @@
     "city": "Taldykorgan",
     "provider": "EFT",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.327520"
+    "last_checked": "2025-07-05T09:53:34.938288"
   },
   {
     "mountpoint": "SEME",
@@ -6993,7 +7070,7 @@
     "city": "Semej",
     "provider": "EFT",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.327524"
+    "last_checked": "2025-07-05T09:53:34.938291"
   },
   {
     "mountpoint": "SEME3_2",
@@ -7004,7 +7081,7 @@
     "city": "Semej",
     "provider": "EFT",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.327527"
+    "last_checked": "2025-07-05T09:53:34.938295"
   },
   {
     "mountpoint": "KRGD",
@@ -7015,7 +7092,7 @@
     "city": "Karaganda",
     "provider": "EFT",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.327531"
+    "last_checked": "2025-07-05T09:53:34.938300"
   },
   {
     "mountpoint": "KRGD3_2",
@@ -7026,7 +7103,7 @@
     "city": "Karaganda",
     "provider": "EFT",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.327535"
+    "last_checked": "2025-07-05T09:53:34.938307"
   },
   {
     "mountpoint": "PTRP",
@@ -7037,7 +7114,7 @@
     "city": "Petropavlovsk",
     "provider": "EFT",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.327538"
+    "last_checked": "2025-07-05T09:53:34.938313"
   },
   {
     "mountpoint": "PTRP3_2",
@@ -7048,7 +7125,7 @@
     "city": "Petropavlovsk",
     "provider": "EFT",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.327542"
+    "last_checked": "2025-07-05T09:53:34.938316"
   },
   {
     "mountpoint": "ATYR",
@@ -7059,7 +7136,7 @@
     "city": "Atyrau",
     "provider": "EFT",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.327546"
+    "last_checked": "2025-07-05T09:53:34.938320"
   },
   {
     "mountpoint": "ATYR3_2",
@@ -7070,7 +7147,7 @@
     "city": "Atyrau",
     "provider": "EFT",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.327552"
+    "last_checked": "2025-07-05T09:53:34.938324"
   },
   {
     "mountpoint": "AKTA",
@@ -7081,7 +7158,7 @@
     "city": "Aktau",
     "provider": "EFT",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.327556"
+    "last_checked": "2025-07-05T09:53:34.938330"
   },
   {
     "mountpoint": "AKTA3_2",
@@ -7092,7 +7169,7 @@
     "city": "Aktau",
     "provider": "EFT",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.327560"
+    "last_checked": "2025-07-05T09:53:34.938334"
   },
   {
     "mountpoint": "AKTB",
@@ -7103,7 +7180,7 @@
     "city": "Aktobe",
     "provider": "EFT",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.327575"
+    "last_checked": "2025-07-05T09:53:34.938338"
   },
   {
     "mountpoint": "AKTB3_2",
@@ -7114,7 +7191,7 @@
     "city": "Aktobe",
     "provider": "EFT",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.327583"
+    "last_checked": "2025-07-05T09:53:34.938341"
   },
   {
     "mountpoint": "KLSR",
@@ -7125,7 +7202,7 @@
     "city": "Kulsary",
     "provider": "EFT",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.327589"
+    "last_checked": "2025-07-05T09:53:34.938346"
   },
   {
     "mountpoint": "KLSR3_2",
@@ -7136,6 +7213,6 @@
     "city": "Kulsary",
     "provider": "EFT",
     "status": "Online",
-    "last_checked": "2025-07-04T17:56:50.327598"
+    "last_checked": "2025-07-05T09:53:34.938356"
   }
 ]
